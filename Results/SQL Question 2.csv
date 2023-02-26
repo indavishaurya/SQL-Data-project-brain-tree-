@@ -1,0 +1,19 @@
+﻿rank,continent_name,country_code,country_name,gdp_rate
+1,Asia,UZB,Uzbekistan,11.12
+2,Asia,IRQ,Iraq,10.06
+3,Asia,PHL,Philippines,9.73
+4,Africa,RWA,Rwanda,8.73
+5,Africa,GIN,Guinea,8.32
+6,Africa,NGA,Nigeria,8.09
+7,South America,ARG,Argentina,5.67
+8,Oceania,FJI,Fiji,3.29
+9,North America,HND,Honduras,2.71
+9,North America,GTM,Guatemala,2.71
+11,North America,ATG,Antigua and Barbuda,2.52
+12,Oceania,TUV,Tuvalu,1.27
+13,Europe,LTU,Lithuania,0.1
+14,Oceania,KIR,Kiribati,0.04
+15,Europe,EST,Estonia,-0.31
+16,Europe,AZE,Azerbaijan,-0.34
+17,South America,PRY,Paraguay,-3.62
+18,South America,BRA,Brazil,-9.83

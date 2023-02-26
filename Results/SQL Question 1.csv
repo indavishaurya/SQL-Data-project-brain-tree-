@@ -1,0 +1,2080 @@
+﻿continent_name,country_code,country_name,year,gdp_per_capita
+North America,ABW,Aruba,2004,22566.68
+Europe,AND,Andorra,2004,29372.17
+Asia,AFG,Afghanistan,2004,220.06
+Africa,AGO,Angola,2004,1229.34
+Europe,ALB,Albania,2004,2320.89
+NULL,ARB,Arab World,2004,3169.36
+Asia,ARE,United Arab Emirates,2004,40403.99
+South America,ARG,Argentina,2004,3997.24
+Europe,ARM,Armenia,2004,1182.1
+North America,ATG,Antigua and Barbuda,2004,11076.06
+Oceania,AUS,Australia,2004,30464
+Europe,AUT,Austria,2004,35662.21
+Europe,AZE,Azerbaijan,2004,1045.03
+Africa,BDI,Burundi,2004,121.86
+Europe,BEL,Belgium,2004,34706.7
+Africa,BEN,Benin,2004,511.29
+Africa,BFA,Burkina Faso,2004,371.22
+Asia,BGD,Bangladesh,2004,400.47
+Europe,BGR,Bulgaria,2004,3249.29
+Asia,BHR,Bahrain,2004,16027.34
+North America,BHS,"Bahamas, The",2004,22005
+Europe,BIH,Bosnia and Herzegovina,2004,2578.74
+Europe,BLR,Belarus,2004,2378.38
+North America,BLZ,Belize,2004,3991.28
+North America,BMU,Bermuda,2004,70359.32
+South America,BOL,Bolivia,2004,954.92
+South America,BRA,Brazil,2004,3607.19
+North America,BRB,Barbados,2004,12893.59
+Asia,BRN,Brunei Darussalam,2004,21819.29
+Asia,BTN,Bhutan,2004,1108.52
+Africa,BWA,Botswana,2004,4829.52
+Africa,CAF,Central African Republic,2004,326.2
+North America,CAN,Canada,2004,31011.91
+Europe,CHE,Switzerland,2004,50641.84
+NULL,CHI,Channel Islands,2004,55842.66
+South America,CHL,Chile,2004,6223.97
+Asia,CHN,China,2004,1490.38
+Africa,CIV,Cote d'Ivoire,2004,902.99
+Africa,CMR,Cameroon,2004,892.53
+Africa,COG,"Congo, Rep.",2004,1347.87
+South America,COL,Colombia,2004,2752.91
+Africa,COM,Comoros,2004,619.11
+Africa,CPV,Cabo Verde,2004,2159.23
+North America,CRI,Costa Rica,2004,4379.39
+NULL,CSS,Caribbean small states,2004,6163.78
+North America,CUB,Cuba,2004,3388.77
+Europe,CYP,Cyprus,2004,21380.9
+Europe,CZE,Czech Republic,2004,11177.36
+Europe,DEU,Germany,2004,33040.05
+Africa,DJI,Djibouti,2004,869.8
+North America,DMA,Dominica,2004,5218.3
+Europe,DNK,Denmark,2004,45282.07
+North America,DOM,Dominican Republic,2004,2407.19
+Africa,DZA,Algeria,2004,2549.96
+NULL,EAP,East Asia & Pacific (developing only),2004,1415.35
+NULL,EAS,East Asia & Pacific (all income levels),2004,4452.92
+NULL,ECA,Europe & Central Asia (developing only),2004,3173.95
+NULL,ECS,Europe & Central Asia (all income levels),2004,17370.62
+South America,ECU,Ecuador,2004,2704.67
+Africa,EGY,"Egypt, Arab Rep.",2004,1116.93
+NULL,EMU,Euro area,2004,30117.41
+Africa,ERI,Eritrea,2004,237.71
+Europe,ESP,Spain,2004,24337.51
+Europe,EST,Estonia,2004,8871.71
+Africa,ETH,Ethiopia,2004,134.28
+NULL,EUU,European Union,2004,26769.94
+Europe,FIN,Finland,2004,36162.66
+Oceania,FJI,Fiji,2004,3330.31
+Europe,FRA,France,2004,32784.83
+Europe,FRO,Faeroe Islands,2004,34520.89
+Oceania,FSM,"Micronesia, Fed. Sts.",2004,2247.84
+Africa,GAB,Gabon,2004,5328.49
+Europe,GBR,United Kingdom,2004,37027.04
+Europe,GEO,Georgia,2004,1186.87
+Africa,GHA,Ghana,2004,426.26
+Africa,GIN,Guinea,2004,390.88
+Africa,GMB,"Gambia, The",2004,415.81
+Africa,GNB,Guinea-Bissau,2004,375.79
+Africa,GNQ,Equatorial Guinea,2004,8943.68
+Europe,GRC,Greece,2004,20607.18
+North America,GRD,Grenada,2004,5844.96
+North America,GRL,Greenland,2004,28903.94
+North America,GTM,Guatemala,2004,1937.72
+South America,GUY,Guyana,2004,1038.29
+NULL,HIC,High income,2004,28431.26
+Asia,HKG,"Hong Kong SAR, China",2004,24928.1
+North America,HND,Honduras,2004,1297.19
+NULL,HPC,Heavily indebted poor countries (HIPC),2004,382.69
+Europe,HRV,Croatia,2004,9237.12
+North America,HTI,Haiti,2004,400.93
+Europe,HUN,Hungary,2004,10084.52
+Asia,IDN,Indonesia,2004,1160.61
+Europe,IMN,Isle of Man,2004,34624.49
+Asia,IND,India,2004,649.71
+Europe,IRL,Ireland,2004,45766.42
+Asia,IRN,"Iran, Islamic Rep.",2004,2353.93
+Asia,IRQ,Iraq,2004,1373.19
+Europe,ISL,Iceland,2004,45370.13
+Asia,ISR,Israel,2004,18588.8
+Europe,ITA,Italy,2004,29832.61
+North America,JAM,Jamaica,2004,3862.06
+Asia,JOR,Jordan,2004,2156.44
+Asia,JPN,Japan,2004,36441.5
+Europe,KAZ,Kazakhstan,2004,2874.29
+Africa,KEN,Kenya,2004,462.05
+Asia,KGZ,Kyrgyz Republic,2004,433.24
+Asia,KHM,Cambodia,2004,405.94
+Oceania,KIR,Kiribati,2004,1149.38
+North America,KNA,St. Kitts and Nevis,2004,10275.47
+Asia,KOR,"Korea, Rep.",2004,15028.81
+NULL,KSV,Kosovo,2004,2135.33
+Asia,KWT,Kuwait,2004,27061.89
+NULL,LAC,Latin America & Caribbean (developing only),2004,3993.24
+Asia,LAO,Lao PDR,2004,415.22
+Asia,LBN,Lebanon,2004,5654.23
+Africa,LBR,Liberia,2004,146.64
+Africa,LBY,Libya,2004,6062.21
+North America,LCA,St. Lucia,2004,5250.55
+NULL,LCN,Latin America & Caribbean (all income levels),2004,4220.69
+NULL,LDC,Least developed countries: UN classification,2004,355
+NULL,LIC,Low income,2004,301.89
+Europe,LIE,Liechtenstein,2004,100286.66
+Asia,LKA,Sri Lanka,2004,1063.16
+NULL,LMC,Lower middle income,2004,796.21
+NULL,LMY,Low & middle income,2004,1471.94
+Africa,LSO,Lesotho,2004,645.49
+Europe,LTU,Lithuania,2004,6677.83
+Europe,LUX,Luxembourg,2004,74388.71
+Europe,LVA,Latvia,2004,6080.79
+Asia,MAC,"Macao SAR, China",2004,22371.61
+Africa,MAR,Morocco,2004,1881.96
+Europe,MCO,Monaco,2004,123263.61
+Europe,MDA,Moldova,2004,720.94
+Africa,MDG,Madagascar,2004,245.67
+Asia,MDV,Maldives,2004,3677.22
+NULL,MEA,Middle East & North Africa (all income levels),2004,3652.28
+North America,MEX,Mexico,2004,7083.47
+Oceania,MHL,Marshall Islands,2004,2517.69
+NULL,MIC,Middle income,2004,1658.17
+Europe,MKD,"Macedonia, FYR",2004,2643.8
+Africa,MLI,Mali,2004,421.17
+Europe,MLT,Malta,2004,14064.23
+NULL,MNA,Middle East & North Africa (developing only),2004,1899.84
+Europe,MNE,Montenegro,2004,3372.96
+Asia,MNG,Mongolia,2004,798.02
+Africa,MOZ,Mozambique,2004,278.78
+Africa,MRT,Mauritania,2004,600.06
+Africa,MUS,Mauritius,2004,5177.37
+Africa,MWI,Malawi,2004,208.86
+Asia,MYS,Malaysia,2004,4918.17
+NULL,NAC,North America,2004,40859.28
+Africa,NAM,Namibia,2004,3298.01
+Africa,NER,Niger,2004,240.22
+Africa,NGA,Nigeria,2004,645.93
+North America,NIC,Nicaragua,2004,1075.98
+Europe,NLD,Netherlands,2004,37458.43
+NULL,NOC,High income: nonOECD,2004,8698.74
+Europe,NOR,Norway,2004,56627.66
+Asia,NPL,Nepal,2004,291.87
+Oceania,NZL,New Zealand,2004,25194.81
+NULL,OEC,High income: OECD,2004,33048.59
+NULL,OED,OECD members,2004,28941.31
+Asia,OMN,Oman,2004,10013.63
+NULL,OSS,Other small states,2004,2671.41
+Asia,PAK,Pakistan,2004,631.5
+North America,PAN,Panama,2004,4292.42
+South America,PER,Peru,2004,2544.35
+Asia,PHL,Philippines,2004,1084.77
+Oceania,PLW,Palau,2004,9635.4
+Oceania,PNG,Papua New Guinea,2004,660.19
+Europe,POL,Poland,2004,6620.07
+North America,PRI,Puerto Rico,2004,20698.07
+Europe,PRT,Portugal,2004,17684.07
+South America,PRY,Paraguay,2004,1386.75
+NULL,PSS,Pacific island small states,2004,2340.66
+Asia,QAT,Qatar,2004,44051.66
+Europe,ROU,Romania,2004,3533.27
+Europe,RUS,Russian Federation,2004,4108.56
+Africa,RWA,Rwanda,2004,225.75
+NULL,SAS,South Asia,2004,617.16
+Asia,SAU,Saudi Arabia,2004,10853.63
+Africa,SDN,Sudan,2004,557.22
+Africa,SEN,Senegal,2004,732.28
+Asia,SGP,Singapore,2004,27047.14
+Oceania,SLB,Solomon Islands,2004,819.33
+Africa,SLE,Sierra Leone,2004,290.41
+North America,SLV,El Salvador,2004,2611.16
+Europe,SMR,San Marino,2004,44976.37
+Europe,SRB,Serbia,2004,3168.88
+NULL,SSA,Sub-Saharan Africa (developing only),2004,749.16
+Africa,SSD,South Sudan,2004,NULL
+NULL,SSF,Sub-Saharan Africa (all income levels),2004,755.68
+NULL,SST,Small states,2004,3532.42
+Africa,STP,Sao Tome and Principe,2004,707.79
+South America,SUR,Suriname,2004,3007.93
+Europe,SVK,Slovak Republic,2004,10437.51
+Europe,SVN,Slovenia,2004,16944.19
+Europe,SWE,Sweden,2004,40261.12
+Africa,SWZ,Swaziland,2004,2211.09
+Africa,SYC,Seychelles,2004,10173.58
+Asia,SYR,Syrian Arab Republic,2004,1419.26
+Africa,TCD,Chad,2004,456.79
+Africa,TGO,Togo,2004,358.86
+Asia,THA,Thailand,2004,2478.82
+Asia,TJK,Tajikistan,2004,311.55
+Asia,TKM,Turkmenistan,2004,1455.94
+Asia,TLS,Timor-Leste,2004,471.05
+Oceania,TON,Tonga,2004,2400.29
+North America,TTO,Trinidad and Tobago,2004,9985.22
+Africa,TUN,Tunisia,2004,3139.53
+Europe,TUR,Turkey,2004,5866.74
+Oceania,TUV,Tuvalu,2004,2232.6
+Africa,TZA,Tanzania,2004,349.62
+Africa,UGA,Uganda,2004,285.96
+Europe,UKR,Ukraine,2004,1367.35
+NULL,UMC,Upper middle income,2004,2509.28
+South America,URY,Uruguay,2004,4117.65
+North America,USA,United States,2004,41928.89
+Asia,UZB,Uzbekistan,2004,465.12
+North America,VCT,St. Vincent and the Grenadines,2004,4813.33
+South America,VEN,"Venezuela, RB",2004,4282.02
+Asia,VNM,Vietnam,2004,606.89
+Oceania,VUT,Vanuatu,2004,1788.02
+Asia,PSE,West Bank and Gaza,2004,1114.39
+NULL,WLD,World,2004,6680.5
+Oceania,WSM,Samoa,2004,2094.63
+Asia,YEM,"Yemen, Rep.",2004,707.37
+Africa,ZAF,South Africa,2004,4659.62
+Africa,COD,"Congo, Dem. Rep.",2004,124.05
+Africa,ZMB,Zambia,2004,486.74
+Africa,ZWE,Zimbabwe,2004,457.38
+North America,ABW,Aruba,2005,23302.83
+Europe,AND,Andorra,2005,31268.97
+Asia,AFG,Afghanistan,2005,252.41
+Africa,AGO,Angola,2005,1706.54
+Europe,ALB,Albania,2005,2620.82
+NULL,ARB,Arab World,2005,3795.72
+Asia,ARE,United Arab Emirates,2005,43533.89
+South America,ARG,Argentina,2005,4740.07
+Europe,ARM,Armenia,2005,1625.4
+North America,ATG,Antigua and Barbuda,2005,12135.54
+Oceania,AUS,Australia,2005,34011.74
+Europe,AUT,Austria,2005,37067.32
+Europe,AZE,Azerbaijan,2005,1578.37
+Africa,BDI,Burundi,2005,143.78
+Europe,BEL,Belgium,2005,36011.47
+Africa,BEN,Benin,2005,532.61
+Africa,BFA,Burkina Faso,2005,407
+Asia,BGD,Bangladesh,2005,421.12
+Europe,BGR,Bulgaria,2005,3733.26
+Asia,BHR,Bahrain,2005,18156.38
+North America,BHS,"Bahamas, The",2005,23416.9
+Europe,BIH,Bosnia and Herzegovina,2005,2821.79
+Europe,BLR,Belarus,2005,3126.37
+North America,BLZ,Belize,2005,4097.53
+North America,BMU,Bermuda,2005,75882.03
+South America,BOL,Bolivia,2005,1020.79
+South America,BRA,Brazil,2005,4739.31
+North America,BRB,Barbados,2005,14224.98
+Asia,BRN,Brunei Darussalam,2005,25913.58
+Asia,BTN,Bhutan,2005,1258.99
+Africa,BWA,Botswana,2005,5294.38
+Africa,CAF,Central African Republic,2005,340.91
+North America,CAN,Canada,2005,35087.89
+Europe,CHE,Switzerland,2005,51734.3
+NULL,CHI,Channel Islands,2005,57209.25
+South America,CHL,Chile,2005,7614.52
+Asia,CHN,China,2005,1731.13
+Africa,CIV,Cote d'Ivoire,2005,940.75
+Africa,CMR,Cameroon,2005,914.55
+Africa,COG,"Congo, Rep.",2005,1718.1
+South America,COL,Colombia,2005,3392.92
+Africa,COM,Comoros,2005,644.27
+Africa,CPV,Cabo Verde,2005,2278.16
+North America,CRI,Costa Rica,2005,4621.36
+NULL,CSS,Caribbean small states,2005,6995.69
+North America,CUB,Cuba,2005,3776.47
+Europe,CYP,Cyprus,2005,22430.61
+Europe,CZE,Czech Republic,2005,12736.23
+Europe,DEU,Germany,2005,33542.78
+Africa,DJI,Djibouti,2005,912.5
+North America,DMA,Dominica,2005,5126.25
+Europe,DNK,Denmark,2005,47546.59
+North America,DOM,Dominican Republic,2005,3635.71
+Africa,DZA,Algeria,2005,3038.75
+NULL,EAP,East Asia & Pacific (developing only),2005,1623.08
+NULL,EAS,East Asia & Pacific (all income levels),2005,4700.1
+NULL,ECA,Europe & Central Asia (developing only),2005,3869.99
+NULL,ECS,Europe & Central Asia (all income levels),2005,18444.43
+South America,ECU,Ecuador,2005,3012.75
+Africa,EGY,"Egypt, Arab Rep.",2005,1249.49
+NULL,EMU,Euro area,2005,31084.02
+Africa,ERI,Eritrea,2005,226.29
+Europe,ESP,Spain,2005,25904.17
+Europe,EST,Estonia,2005,10288.73
+Africa,ETH,Ethiopia,2005,159.83
+NULL,EUU,European Union,2005,27873.52
+Europe,FIN,Finland,2005,37318.8
+Oceania,FJI,Fiji,2005,3655.66
+Europe,FRA,France,2005,33818.97
+Europe,FRO,Faeroe Islands,2005,35211.55
+Oceania,FSM,"Micronesia, Fed. Sts.",2005,2352.64
+Africa,GAB,Gabon,2005,6281.95
+Europe,GBR,United Kingdom,2005,38440.74
+Europe,GEO,Georgia,2005,1469.97
+Africa,GHA,Ghana,2005,501.86
+Africa,GIN,Guinea,2005,306.7
+Africa,GMB,"Gambia, The",2005,434.5
+Africa,GNB,Guinea-Bissau,2005,402.99
+Africa,GNQ,Equatorial Guinea,2005,13612.85
+Europe,GRC,Greece,2005,21620.72
+North America,GRD,Grenada,2005,6803.55
+North America,GRL,Greenland,2005,29903.28
+North America,GTM,Guatemala,2005,2146.18
+South America,GUY,Guyana,2005,1084.18
+NULL,HIC,High income,2005,29978.61
+Asia,HKG,"Hong Kong SAR, China",2005,26649.75
+North America,HND,Honduras,2005,1401.99
+NULL,HPC,Heavily indebted poor countries (HIPC),2005,424.5
+Europe,HRV,Croatia,2005,10090.37
+North America,HTI,Haiti,2005,448.58
+Europe,HUN,Hungary,2005,10936.95
+Asia,IDN,Indonesia,2005,1273.47
+Europe,IMN,Isle of Man,2005,36289.88
+Asia,IND,India,2005,740.11
+Europe,IRL,Ireland,2005,48697.58
+Asia,IRN,"Iran, Islamic Rep.",2005,2737.11
+Asia,IRQ,Iraq,2005,1824.7
+Europe,ISL,Iceland,2005,54885.26
+Asia,ISR,Israel,2005,19330.02
+Europe,ITA,Italy,2005,30478.85
+North America,JAM,Jamaica,2005,4189.66
+Asia,JOR,Jordan,2005,2325.43
+Asia,JPN,Japan,2005,35781.23
+Europe,KAZ,Kazakhstan,2005,3771.28
+Africa,KEN,Kenya,2005,523.61
+Asia,KGZ,Kyrgyz Republic,2005,476.48
+Asia,KHM,Cambodia,2005,471.16
+Oceania,KIR,Kiribati,2005,1173.31
+North America,KNA,St. Kitts and Nevis,2005,10916.19
+Asia,KOR,"Korea, Rep.",2005,17550.83
+NULL,KSV,Kosovo,2005,2194.37
+Asia,KWT,Kuwait,2005,35185.93
+NULL,LAC,Latin America & Caribbean (developing only),2005,4781.73
+Asia,LAO,Lao PDR,2005,472.41
+Asia,LBN,Lebanon,2005,5483.18
+Africa,LBR,Liberia,2005,165.76
+Africa,LBY,Libya,2005,7864.94
+North America,LCA,St. Lucia,2005,5492.86
+NULL,LCN,Latin America & Caribbean (all income levels),2005,5034.87
+NULL,LDC,Least developed countries: UN classification,2005,405.44
+NULL,LIC,Low income,2005,328.89
+Europe,LIE,Liechtenstein,2005,105306.75
+Asia,LKA,Sri Lanka,2005,1242.4
+NULL,LMC,Lower middle income,2005,904.06
+NULL,LMY,Low & middle income,2005,1712.96
+Africa,LSO,Lesotho,2005,710.55
+Europe,LTU,Lithuania,2005,7814.01
+Europe,LUX,Luxembourg,2005,80925.22
+Europe,LVA,Latvia,2005,7165.38
+Asia,MAC,"Macao SAR, China",2005,25189.78
+Africa,MAR,Morocco,2005,1948.2
+Europe,MCO,Monaco,2005,126599.41
+Europe,MDA,Moldova,2005,831.16
+Africa,MDG,Madagascar,2005,275.48
+Asia,MDV,Maldives,2005,3335.2
+NULL,MEA,Middle East & North Africa (all income levels),2005,4298.73
+North America,MEX,Mexico,2005,7858.76
+Oceania,MHL,Marshall Islands,2005,2642.38
+NULL,MIC,Middle income,2005,1935.13
+Europe,MKD,"Macedonia, FYR",2005,2863.96
+Africa,MLI,Mali,2005,444.28
+Europe,MLT,Malta,2005,14810.04
+NULL,MNA,Middle East & North Africa (developing only),2005,2178.86
+Europe,MNE,Montenegro,2005,3665.33
+Asia,MNG,Mongolia,2005,998.76
+Africa,MOZ,Mozambique,2005,313.11
+Africa,MRT,Mauritania,2005,694.32
+Africa,MUS,Mauritius,2005,5054.32
+Africa,MWI,Malawi,2005,213.16
+Asia,MYS,Malaysia,2005,5553.94
+NULL,NAC,North America,2005,43410.62
+Africa,NAM,Namibia,2005,3582.24
+Africa,NER,Niger,2005,258.28
+Africa,NGA,Nigeria,2005,804.15
+North America,NIC,Nicaragua,2005,1159
+Europe,NLD,Netherlands,2005,39122.29
+NULL,NOC,High income: nonOECD,2005,10364.97
+Europe,NOR,Norway,2005,65767.02
+Asia,NPL,Nepal,2005,321.46
+Oceania,NZL,New Zealand,2005,27536.81
+NULL,OEC,High income: OECD,2005,34565.96
+NULL,OED,OECD members,2005,30349.84
+Asia,OMN,Oman,2005,12252.61
+NULL,OSS,Other small states,2005,3017.05
+Asia,PAK,Pakistan,2005,693.18
+North America,PAN,Panama,2005,4594.48
+South America,PER,Peru,2005,2863.48
+Asia,PHL,Philippines,2005,1200.94
+Oceania,PLW,Palau,2005,10364.64
+Oceania,PNG,Papua New Guinea,2005,804.07
+Europe,POL,Poland,2005,7963.02
+North America,PRI,Puerto Rico,2005,21670.02
+Europe,PRT,Portugal,2005,18265.43
+South America,PRY,Paraguay,2005,1479.4
+NULL,PSS,Pacific island small states,2005,2530.77
+Asia,QAT,Qatar,2005,54228.83
+Europe,ROU,Romania,2005,4651.69
+Europe,RUS,Russian Federation,2005,5337.07
+Africa,RWA,Rwanda,2005,273.75
+NULL,SAS,South Asia,2005,696.88
+Asia,SAU,Saudi Arabia,2005,13303.31
+Africa,SDN,Sudan,2005,669.4
+Africa,SEN,Senegal,2005,772.53
+Asia,SGP,Singapore,2005,29403.39
+Oceania,SLB,Solomon Islands,2005,881.96
+Africa,SLE,Sierra Leone,2005,317.95
+North America,SLV,El Salvador,2005,2814.94
+Europe,SMR,San Marino,2005,46193.67
+Europe,SRB,Serbia,2005,3391.37
+NULL,SSA,Sub-Saharan Africa (developing only),2005,850.92
+Africa,SSD,South Sudan,2005,NULL
+NULL,SSF,Sub-Saharan Africa (all income levels),2005,861.12
+NULL,SST,Small states,2005,3983
+Africa,STP,Sao Tome and Principe,2005,736.08
+South America,SUR,Suriname,2005,3590.54
+Europe,SVK,Slovak Republic,2005,11414.61
+Europe,SVN,Slovenia,2005,17854.63
+Europe,SWE,Sweden,2005,41040.66
+Africa,SWZ,Swaziland,2005,2339.29
+Africa,SYC,Seychelles,2005,11086.89
+Asia,SYR,Syrian Arab Republic,2005,1588.51
+Africa,TCD,Chad,2005,663.71
+Africa,TGO,Togo,2005,381.78
+Asia,THA,Thailand,2005,2689.95
+Asia,TJK,Tajikistan,2005,339.76
+Asia,TKM,Turkmenistan,2005,1706.96
+Asia,TLS,Timor-Leste,2005,487.32
+Oceania,TON,Tonga,2005,2622.95
+North America,TTO,Trinidad and Tobago,2005,12405.06
+Africa,TUN,Tunisia,2005,3218.96
+Europe,TUR,Turkey,2005,7129.58
+Oceania,TUV,Tuvalu,2005,2252.9
+Africa,TZA,Tanzania,2005,375
+Africa,UGA,Uganda,2005,313.8
+Europe,UKR,Ukraine,2005,1828.72
+NULL,UMC,Upper middle income,2005,2960.82
+South America,URY,Uruguay,2005,5221.67
+North America,USA,United States,2005,44313.59
+Asia,UZB,Uzbekistan,2005,546.78
+North America,VCT,St. Vincent and the Grenadines,2005,5070.68
+South America,VEN,"Venezuela, RB",2005,5444.66
+Asia,VNM,Vietnam,2005,699.49
+Oceania,VUT,Vanuatu,2005,1886.39
+Asia,PSE,West Bank and Gaza,2005,1209.45
+NULL,WLD,World,2005,7140.28
+Oceania,WSM,Samoa,2005,2291.03
+Asia,YEM,"Yemen, Rep.",2005,831.88
+Africa,ZAF,South Africa,2005,5185.85
+Africa,COD,"Congo, Dem. Rep.",2005,133.1
+Africa,ZMB,Zambia,2005,625.85
+Africa,ZWE,Zimbabwe,2005,452.79
+North America,ABW,Aruba,2006,24015.42
+Europe,AND,Andorra,2006,34484.7
+Asia,AFG,Afghanistan,2006,275.35
+Africa,AGO,Angola,2006,2440.63
+Europe,ALB,Albania,2006,2872.26
+NULL,ARB,Arab World,2006,4413.36
+Asia,ARE,United Arab Emirates,2006,45554.22
+South America,ARG,Argentina,2006,5490.44
+Europe,ARM,Armenia,2006,2126.09
+North America,ATG,Antigua and Barbuda,2006,13675.08
+Oceania,AUS,Australia,2006,36113
+Europe,AUT,Austria,2006,39299.61
+Europe,AZE,Azerbaijan,2006,2473
+Africa,BDI,Burundi,2006,158.31
+Europe,BEL,Belgium,2006,37918.77
+Africa,BEN,Benin,2006,557.23
+Africa,BFA,Burkina Faso,2006,422.84
+Asia,BGD,Bangladesh,2006,427.29
+Europe,BGR,Bulgaria,2006,4313.43
+Asia,BHR,Bahrain,2006,19459.73
+North America,BHS,"Bahamas, The",2006,23733.81
+Europe,BIH,Bosnia and Herzegovina,2006,3199.9
+Europe,BLR,Belarus,2006,3848.6
+North America,BLZ,Belize,2006,4363.85
+North America,BMU,Bermuda,2006,83912.7
+South America,BOL,Bolivia,2006,1203.25
+South America,BRA,Brazil,2006,5787.98
+North America,BRB,Barbados,2006,15691.85
+Asia,BRN,Brunei Darussalam,2006,30613.28
+Asia,BTN,Bhutan,2006,1348.73
+Africa,BWA,Botswana,2006,5341.4
+Africa,CAF,Central African Republic,2006,365.5
+North America,CAN,Canada,2006,39256.71
+Europe,CHE,Switzerland,2006,54140.5
+NULL,CHI,Channel Islands,2006,62263.83
+South America,CHL,Chile,2006,9371.43
+Asia,CHN,China,2006,2069.34
+Africa,CIV,Cote d'Ivoire,2006,983.29
+Africa,CMR,Cameroon,2006,964.6
+Africa,COG,"Congo, Rep.",2006,2120.1
+South America,COL,Colombia,2006,3712.79
+Africa,COM,Comoros,2006,653.95
+Africa,CPV,Cabo Verde,2006,2566.45
+North America,CRI,Costa Rica,2006,5128.4
+NULL,CSS,Caribbean small states,2006,7825.29
+North America,CUB,Cuba,2006,4666.99
+Europe,CYP,Cyprus,2006,23863.55
+Europe,CZE,Czech Republic,2006,14488.37
+Europe,DEU,Germany,2006,35237.6
+Africa,DJI,Djibouti,2006,976.29
+North America,DMA,Dominica,2006,5408.11
+Europe,DNK,Denmark,2006,50462.23
+North America,DOM,Dominican Republic,2006,3794.07
+Africa,DZA,Algeria,2006,3391.37
+NULL,EAP,East Asia & Pacific (developing only),2006,1936.25
+NULL,EAS,East Asia & Pacific (all income levels),2006,4949.74
+NULL,ECA,Europe & Central Asia (developing only),2006,4444.3
+NULL,ECS,Europe & Central Asia (all income levels),2006,19902.71
+South America,ECU,Ecuador,2006,3337.4
+Africa,EGY,"Egypt, Arab Rep.",2006,1472.57
+NULL,EMU,Euro area,2006,32797.96
+Africa,ERI,Eritrea,2006,240.55
+Europe,ESP,Spain,2006,27847.45
+Europe,EST,Estonia,2006,12486.89
+Africa,ETH,Ethiopia,2006,191.6
+NULL,EUU,European Union,2006,29603.58
+Europe,FIN,Finland,2006,39487.05
+Oceania,FJI,Fiji,2006,3747.43
+Europe,FRA,France,2006,35457.05
+Europe,FRO,Faeroe Islands,2006,39869.98
+Oceania,FSM,"Micronesia, Fed. Sts.",2006,2393.8
+Africa,GAB,Gabon,2006,6756.27
+Europe,GBR,United Kingdom,2006,40819.89
+Europe,GEO,Georgia,2006,1764.87
+Africa,GHA,Ghana,2006,929.95
+Africa,GIN,Guinea,2006,287.92
+Africa,GMB,"Gambia, The",2006,441.92
+Africa,GNB,Guinea-Bissau,2006,398.25
+Africa,GNQ,Equatorial Guinea,2006,15451.2
+Europe,GRC,Greece,2006,23475.22
+North America,GRD,Grenada,2006,6825.13
+North America,GRL,Greenland,2006,30620.21
+North America,GTM,Guatemala,2006,2326.3
+South America,GUY,Guyana,2006,1905.56
+NULL,HIC,High income,2006,31601.91
+Asia,HKG,"Hong Kong SAR, China",2006,28224.21
+North America,HND,Honduras,2006,1540.58
+NULL,HPC,Heavily indebted poor countries (HIPC),2006,492.26
+Europe,HRV,Croatia,2006,11228.62
+North America,HTI,Haiti,2006,519.75
+Europe,HUN,Hungary,2006,11173.57
+Asia,IDN,Indonesia,2006,1601.03
+Europe,IMN,Isle of Man,2006,42402.07
+Asia,IND,India,2006,830.16
+Europe,IRL,Ireland,2006,52118.8
+Asia,IRN,"Iran, Islamic Rep.",2006,3140.2
+Asia,IRQ,Iraq,2006,2321.15
+Europe,ISL,Iceland,2006,54813.95
+Asia,ISR,Israel,2006,21405.16
+Europe,ITA,Italy,2006,31776.98
+North America,JAM,Jamaica,2006,4486.56
+Asia,JOR,Jordan,2006,2719.82
+Asia,JPN,Japan,2006,34102.21
+Europe,KAZ,Kazakhstan,2006,5291.57
+Africa,KEN,Kenya,2006,612.23
+Asia,KGZ,Kyrgyz Republic,2006,543.11
+Asia,KHM,Cambodia,2006,536.66
+Oceania,KIR,Kiribati,2006,1138.28
+North America,KNA,St. Kitts and Nevis,2006,12634.96
+Asia,KOR,"Korea, Rep.",2006,19676.15
+NULL,KSV,Kosovo,2006,2278.62
+Asia,KWT,Kuwait,2006,42011.77
+NULL,LAC,Latin America & Caribbean (developing only),2006,5526.85
+Asia,LAO,Lao PDR,2006,585.64
+Asia,LBN,Lebanon,2006,5499.86
+Africa,LBR,Liberia,2006,178.45
+Africa,LBY,Libya,2006,9933.11
+North America,LCA,St. Lucia,2006,6072.3
+NULL,LCN,Latin America & Caribbean (all income levels),2006,5813.15
+NULL,LDC,Least developed countries: UN classification,2006,461.95
+NULL,LIC,Low income,2006,352.42
+Europe,LIE,Liechtenstein,2006,113873.92
+Asia,LKA,Sri Lanka,2006,1423.48
+NULL,LMC,Lower middle income,2006,1058.89
+NULL,LMY,Low & middle income,2006,1986.84
+Africa,LSO,Lesotho,2006,736.36
+Europe,LTU,Lithuania,2006,9201.64
+Europe,LUX,Luxembourg,2006,90015.53
+Europe,LVA,Latvia,2006,8986.4
+Asia,MAC,"Macao SAR, China",2006,30363.62
+Africa,MAR,Morocco,2006,2128.07
+Europe,MCO,Monaco,2006,135688.8
+Europe,MDA,Moldova,2006,950.7
+Africa,MDG,Madagascar,2006,292.96
+Asia,MDV,Maldives,2006,4304.06
+NULL,MEA,Middle East & North Africa (all income levels),2006,4958.54
+North America,MEX,Mexico,2006,8618.25
+Oceania,MHL,Marshall Islands,2006,2752.32
+NULL,MIC,Middle income,2006,2251.36
+Europe,MKD,"Macedonia, FYR",2006,3133.32
+Africa,MLI,Mali,2006,496.74
+Europe,MLT,Malta,2006,15766.09
+NULL,MNA,Middle East & North Africa (developing only),2006,2497.82
+Europe,MNE,Montenegro,2006,4370.6
+Asia,MNG,Mongolia,2006,1333.88
+Africa,MOZ,Mozambique,2006,328.71
+Africa,MRT,Mauritania,2006,939.16
+Africa,MUS,Mauritius,2006,5373.63
+Africa,MWI,Malawi,2006,234.21
+Asia,MYS,Malaysia,2006,6179.66
+NULL,NAC,North America,2006,45743.93
+Africa,NAM,Namibia,2006,3886.48
+Africa,NER,Niger,2006,266.58
+Africa,NGA,Nigeria,2006,1014.76
+North America,NIC,Nicaragua,2006,1228.3
+Europe,NLD,Netherlands,2006,41458.93
+NULL,NOC,High income: nonOECD,2006,12169.76
+Europe,NOR,Norway,2006,72959.77
+Asia,NPL,Nepal,2006,352.8
+Oceania,NZL,New Zealand,2006,26359.61
+NULL,OEC,High income: OECD,2006,36148.69
+NULL,OED,OECD members,2006,31769.07
+Asia,OMN,Oman,2006,14405.09
+NULL,OSS,Other small states,2006,3257.8
+Asia,PAK,Pakistan,2006,853.07
+North America,PAN,Panama,2006,4998.38
+South America,PER,Peru,2006,3297.56
+Asia,PHL,Philippines,2006,1398.83
+Oceania,PLW,Palau,2006,10499.28
+Oceania,PNG,Papua New Guinea,2006,896.39
+Europe,POL,Poland,2006,8958.01
+North America,PRI,Puerto Rico,2006,22641.83
+Europe,PRT,Portugal,2006,19177.43
+South America,PRY,Paraguay,2006,1772.64
+NULL,PSS,Pacific island small states,2006,2627.53
+Asia,QAT,Qatar,2006,62920.64
+Europe,ROU,Romania,2006,5789.24
+Europe,RUS,Russian Federation,2006,6946.88
+Africa,RWA,Rwanda,2006,322.04
+NULL,SAS,South Asia,2006,785.49
+Asia,SAU,Saudi Arabia,2006,14855
+Africa,SDN,Sudan,2006,862.29
+Africa,SEN,Senegal,2006,807.97
+Asia,SGP,Singapore,2006,33088.75
+Oceania,SLB,Solomon Islands,2006,950.06
+Africa,SLE,Sierra Leone,2006,357.41
+North America,SLV,El Salvador,2006,3042.75
+Europe,SMR,San Marino,2006,48757.89
+Europe,SRB,Serbia,2006,3942.63
+NULL,SSA,Sub-Saharan Africa (developing only),2006,964.66
+Africa,SSD,South Sudan,2006,NULL
+NULL,SSF,Sub-Saharan Africa (all income levels),2006,976.27
+NULL,SST,Small states,2006,4352.95
+Africa,STP,Sao Tome and Principe,2006,781.99
+South America,SUR,Suriname,2006,5198.27
+Europe,SVK,Slovak Republic,2006,12842.25
+Europe,SVN,Slovenia,2006,19405.93
+Europe,SWE,Sweden,2006,43948.62
+Africa,SWZ,Swaziland,2006,2636.19
+Africa,SYC,Seychelles,2006,12014.42
+Asia,SYR,Syrian Arab Republic,2006,1772.56
+Africa,TCD,Chad,2006,716.64
+Africa,TGO,Togo,2006,387.42
+Asia,THA,Thailand,2006,3143.24
+Asia,TJK,Tajikistan,2006,406.96
+Asia,TKM,Turkmenistan,2006,2140.46
+Asia,TLS,Timor-Leste,2006,456.02
+Oceania,TON,Tonga,2006,2912.88
+North America,TTO,Trinidad and Tobago,2006,14162.81
+Africa,TUN,Tunisia,2006,3394.31
+Europe,TUR,Turkey,2006,7736.1
+Oceania,TUV,Tuvalu,2006,2353.4
+Africa,TZA,Tanzania,2006,369.4
+Africa,UGA,Uganda,2006,334.64
+Europe,UKR,Ukraine,2006,2303.02
+NULL,UMC,Upper middle income,2006,3446.63
+South America,URY,Uruguay,2006,5879.34
+North America,USA,United States,2006,46443.81
+Asia,UZB,Uzbekistan,2006,642.96
+North America,VCT,St. Vincent and the Grenadines,2006,5610.61
+South America,VEN,"Venezuela, RB",2006,6747.76
+Asia,VNM,Vietnam,2006,796.65
+Oceania,VUT,Vanuatu,2006,2036.17
+Asia,PSE,West Bank and Gaza,2006,NULL
+NULL,WLD,World,2006,7640.39
+Oceania,WSM,Samoa,2006,2502.21
+Asia,YEM,"Yemen, Rep.",2006,923.53
+Africa,ZAF,South Africa,2006,5407.26
+Africa,COD,"Congo, Dem. Rep.",2006,158.73
+Africa,ZMB,Zambia,2006,908.38
+Africa,ZWE,Zimbabwe,2006,427.83
+North America,ABW,Aruba,2007,25921.28
+Europe,AND,Andorra,2007,39922.89
+Asia,AFG,Afghanistan,2007,373.59
+Africa,AGO,Angola,2007,3412.72
+Europe,ALB,Albania,2007,3380.89
+NULL,ARB,Arab World,2007,5035.71
+Asia,ARE,United Arab Emirates,2007,44488.65
+South America,ARG,Argentina,2007,6630.05
+Europe,ARM,Armenia,2007,3079.14
+North America,ATG,Antigua and Barbuda,2007,15353.91
+Oceania,AUS,Australia,2007,40996.32
+Europe,AUT,Austria,2007,45181.47
+Europe,AZE,Azerbaijan,2007,3851.33
+Africa,BDI,Burundi,2007,162.83
+Europe,BEL,Belgium,2007,43255.39
+Africa,BEN,Benin,2007,632.36
+Africa,BFA,Burkina Faso,2007,474.59
+Asia,BGD,Bangladesh,2007,467.14
+Europe,BGR,Bulgaria,2007,5581.41
+Asia,BHR,Bahrain,2007,21049.57
+North America,BHS,"Bahamas, The",2007,24321.06
+Europe,BIH,Bosnia and Herzegovina,2007,3949.84
+Europe,BLR,Belarus,2007,4735.95
+North America,BLZ,Belize,2007,4509.32
+North America,BMU,Bermuda,2007,90849.59
+South America,BOL,Bolivia,2007,1355.88
+South America,BRA,Brazil,2007,7194.08
+North America,BRB,Barbados,2007,16335.96
+Asia,BRN,Brunei Darussalam,2007,32108.92
+Asia,BTN,Bhutan,2007,1760.6
+Africa,BWA,Botswana,2007,5711.73
+Africa,CAF,Central African Republic,2007,413.48
+North America,CAN,Canada,2007,43300.56
+Europe,CHE,Switzerland,2007,59663.77
+NULL,CHI,Channel Islands,2007,73577.16
+South America,CHL,Chile,2007,10383.49
+Asia,CHN,China,2007,2651.26
+Africa,CIV,Cote d'Ivoire,2007,1102.88
+Africa,CMR,Cameroon,2007,1069.86
+Africa,COG,"Congo, Rep.",2007,2233.31
+South America,COL,Colombia,2007,4663.54
+Africa,COM,Comoros,2007,734.82
+Africa,CPV,Cabo Verde,2007,3129.82
+North America,CRI,Costa Rica,2007,5897.53
+NULL,CSS,Caribbean small states,2007,8647.68
+North America,CUB,Cuba,2007,5185.38
+Europe,CYP,Cyprus,2007,27860.28
+Europe,CZE,Czech Republic,2007,17527.36
+Europe,DEU,Germany,2007,40402.99
+Africa,DJI,Djibouti,2007,1061.64
+North America,DMA,Dominica,2007,5915.11
+Europe,DNK,Denmark,2007,57021.17
+North America,DOM,Dominican Republic,2007,4297.52
+Africa,DZA,Algeria,2007,3845.85
+NULL,EAP,East Asia & Pacific (developing only),2007,2426.87
+NULL,EAS,East Asia & Pacific (all income levels),2007,5502.09
+NULL,ECA,Europe & Central Asia (developing only),2007,5608.56
+NULL,ECS,Europe & Central Asia (all income levels),2007,23193.79
+South America,ECU,Ecuador,2007,3574.88
+Africa,EGY,"Egypt, Arab Rep.",2007,1757.76
+NULL,EMU,Euro area,2007,37512.36
+Africa,ERI,Eritrea,2007,252.98
+Europe,ESP,Spain,2007,31871.07
+Europe,EST,Estonia,2007,16381.06
+Africa,ETH,Ethiopia,2007,235.9
+NULL,EUU,European Union,2007,34097.25
+Europe,FIN,Finland,2007,46538.17
+Oceania,FJI,Fiji,2007,4075.99
+Europe,FRA,France,2007,40341.91
+Europe,FRO,Faeroe Islands,2007,45974.69
+Oceania,FSM,"Micronesia, Fed. Sts.",2007,2434.81
+Africa,GAB,Gabon,2007,7994.3
+Europe,GBR,United Kingdom,2007,46610.53
+Europe,GEO,Georgia,2007,2317.99
+Africa,GHA,Ghana,2007,1099.08
+Africa,GIN,Guinea,2007,411.48
+Africa,GMB,"Gambia, The",2007,522.34
+Africa,GNB,Guinea-Bissau,2007,465.34
+Africa,GNQ,Equatorial Guinea,2007,19660.08
+Europe,GRC,Greece,2007,27288.33
+North America,GRD,Grenada,2007,7373.82
+North America,GRL,Greenland,2007,37516.75
+North America,GTM,Guatemala,2007,2561.44
+South America,GUY,Guyana,2007,2258.98
+NULL,HIC,High income,2007,34473.63
+Asia,HKG,"Hong Kong SAR, China",2007,30594.02
+North America,HND,Honduras,2007,1710.05
+NULL,HPC,Heavily indebted poor countries (HIPC),2007,571.49
+Europe,HRV,Croatia,2007,13376.01
+North America,HTI,Haiti,2007,627.65
+Europe,HUN,Hungary,2007,13534.71
+Asia,IDN,Indonesia,2007,1871.29
+Europe,IMN,Isle of Man,2007,49817.45
+Asia,IND,India,2007,1068.68
+Europe,IRL,Ireland,2007,59008.32
+Asia,IRN,"Iran, Islamic Rep.",2007,3983.58
+Asia,IRQ,Iraq,2007,3091.02
+Europe,ISL,Iceland,2007,65566.31
+Asia,ISR,Israel,2007,24368.45
+Europe,ITA,Italy,2007,35826.02
+North America,JAM,Jamaica,2007,4815.08
+Asia,JOR,Jordan,2007,3022.54
+Asia,JPN,Japan,2007,34094.89
+Europe,KAZ,Kazakhstan,2007,6771.42
+Africa,KEN,Kenya,2007,721.46
+Asia,KGZ,Kyrgyz Republic,2007,721.77
+Asia,KHM,Cambodia,2007,628.43
+Oceania,KIR,Kiribati,2007,1316.96
+North America,KNA,St. Kitts and Nevis,2007,13658.66
+Asia,KOR,"Korea, Rep.",2007,21590.26
+NULL,KSV,Kosovo,2007,2736.49
+Asia,KWT,Kuwait,2007,44902.32
+NULL,LAC,Latin America & Caribbean (developing only),2007,6455.63
+Asia,LAO,Lao PDR,2007,702.27
+Asia,LBN,Lebanon,2007,6052.62
+Africa,LBR,Liberia,2007,209.81
+Africa,LBY,Libya,2007,12418.18
+North America,LCA,St. Lucia,2007,6655.39
+NULL,LCN,Latin America & Caribbean (all income levels),2007,6747.98
+NULL,LDC,Least developed countries: UN classification,2007,550.65
+NULL,LIC,Low income,2007,405.65
+Europe,LIE,Liechtenstein,2007,130348.56
+Asia,LKA,Sri Lanka,2007,1614.41
+NULL,LMC,Lower middle income,2007,1286.02
+NULL,LMY,Low & middle income,2007,2413.79
+Africa,LSO,Lesotho,2007,816.8
+Europe,LTU,Lithuania,2007,12101.65
+Europe,LUX,Luxembourg,2007,106919.53
+Europe,LVA,Latvia,2007,13073.38
+Asia,MAC,"Macao SAR, China",2007,36606.78
+Africa,MAR,Morocco,2007,2416.26
+Europe,MCO,Monaco,2007,170632.95
+Europe,MDA,Moldova,2007,1230.81
+Africa,MDG,Madagascar,2007,379.07
+Asia,MDV,Maldives,2007,5002.54
+NULL,MEA,Middle East & North Africa (all income levels),2007,5729.81
+North America,MEX,Mexico,2007,9191.06
+Oceania,MHL,Marshall Islands,2007,2871.31
+NULL,MIC,Middle income,2007,2741.72
+Europe,MKD,"Macedonia, FYR",2007,3891.9
+Africa,MLI,Mali,2007,561.5
+Europe,MLT,Malta,2007,18474.04
+NULL,MNA,Middle East & North Africa (developing only),2007,3009.26
+Europe,MNE,Montenegro,2007,5938.58
+Asia,MNG,Mongolia,2007,1631.9
+Africa,MOZ,Mozambique,2007,362.43
+Africa,MRT,Mauritania,2007,1008.02
+Africa,MUS,Mauritius,2007,6182.2
+Africa,MWI,Malawi,2007,266
+Asia,MYS,Malaysia,2007,7218.4
+NULL,NAC,North America,2007,47609.28
+Africa,NAM,Namibia,2007,4234.93
+Africa,NER,Niger,2007,302.27
+Africa,NGA,Nigeria,2007,1130.88
+North America,NIC,Nicaragua,2007,1330.82
+Europe,NLD,Netherlands,2007,47770.8
+NULL,NOC,High income: nonOECD,2007,14390.11
+Europe,NOR,Norway,2007,83556.25
+Asia,NPL,Nepal,2007,397.9
+Oceania,NZL,New Zealand,2007,31996.76
+NULL,OEC,High income: OECD,2007,39182.23
+NULL,OED,OECD members,2007,34463.71
+Asia,OMN,Oman,2007,16305.61
+NULL,OSS,Other small states,2007,3767.21
+Asia,PAK,Pakistan,2007,929.59
+North America,PAN,Panama,2007,5669.87
+South America,PER,Peru,2007,3794.5
+Asia,PHL,Philippines,2007,1680.55
+Oceania,PLW,Palau,2007,10529.44
+Oceania,PNG,Papua New Guinea,2007,989.32
+Europe,POL,Poland,2007,11157.27
+North America,PRI,Puerto Rico,2007,23369.05
+Europe,PRT,Portugal,2007,21980.69
+South America,PRY,Paraguay,2007,2259.08
+NULL,PSS,Pacific island small states,2007,2876.63
+Asia,QAT,Qatar,2007,69166.96
+Europe,ROU,Romania,2007,8170.14
+Europe,RUS,Russian Federation,2007,9146.42
+Africa,RWA,Rwanda,2007,376.52
+NULL,SAS,South Asia,2007,981.82
+Asia,SAU,Saudi Arabia,2007,16048.58
+Africa,SDN,Sudan,2007,1083.46
+Africa,SEN,Senegal,2007,947.89
+Asia,SGP,Singapore,2007,38762.59
+Oceania,SLB,Solomon Islands,2007,1191.14
+Africa,SLE,Sierra Leone,2007,398.44
+North America,SLV,El Salvador,2007,3283.53
+Europe,SMR,San Marino,2007,55556.97
+Europe,SRB,Serbia,2007,5276.93
+NULL,SSA,Sub-Saharan Africa (developing only),2007,1089.61
+Africa,SSD,South Sudan,2007,NULL
+NULL,SSF,Sub-Saharan Africa (all income levels),2007,1104.52
+NULL,SST,Small states,2007,4911.82
+Africa,STP,Sao Tome and Principe,2007,882.91
+South America,SUR,Suriname,2007,5753.18
+Europe,SVK,Slovak Republic,2007,15649.21
+Europe,SVN,Slovenia,2007,23441
+Europe,SWE,Sweden,2007,50558.39
+Africa,SWZ,Swaziland,2007,2690.65
+Africa,SYC,Seychelles,2007,12155.7
+Asia,SYR,Syrian Arab Republic,2007,2065.54
+Africa,TCD,Chad,2007,807.78
+Africa,TGO,Togo,2007,432.48
+Asia,THA,Thailand,2007,3737.72
+Asia,TJK,Tajikistan,2007,523.06
+Asia,TKM,Turkmenistan,2007,2606.74
+Asia,TLS,Timor-Leste,2007,534.11
+Oceania,TON,Tonga,2007,2943.27
+North America,TTO,Trinidad and Tobago,2007,16591.39
+Africa,TUN,Tunisia,2007,3799.35
+Europe,TUR,Turkey,2007,9312.05
+Oceania,TUV,Tuvalu,2007,2768.43
+Africa,TZA,Tanzania,2007,421.3
+Africa,UGA,Uganda,2007,400.04
+Europe,UKR,Ukraine,2007,3068.61
+NULL,UMC,Upper middle income,2007,4212.34
+South America,URY,Uruguay,2007,7012.54
+North America,USA,United States,2007,48070.38
+Asia,UZB,Uzbekistan,2007,830.41
+North America,VCT,St. Vincent and the Grenadines,2007,6278.98
+South America,VEN,"Venezuela, RB",2007,8329.64
+Asia,VNM,Vietnam,2007,919.18
+Oceania,VUT,Vanuatu,2007,2392.83
+Asia,PSE,West Bank and Gaza,2007,NULL
+NULL,WLD,World,2007,8502.05
+Oceania,WSM,Samoa,2007,2693.79
+Asia,YEM,"Yemen, Rep.",2007,1022.39
+Africa,ZAF,South Africa,2007,5850.96
+Africa,COD,"Congo, Dem. Rep.",2007,175.1
+Africa,ZMB,Zambia,2007,953.08
+Africa,ZWE,Zimbabwe,2007,415.38
+North America,ABW,Aruba,2008,27549.35
+Europe,AND,Andorra,2008,46418.41
+Asia,AFG,Afghanistan,2008,376.98
+Africa,AGO,Angola,2008,4596.27
+Europe,ALB,Albania,2008,4108.41
+NULL,ARB,Arab World,2008,6249.17
+Asia,ARE,United Arab Emirates,2008,46402.64
+South America,ARG,Argentina,2008,8231.23
+Europe,ARM,Armenia,2008,3916.73
+North America,ATG,Antigua and Barbuda,2008,15871.5
+Oceania,AUS,Australia,2008,49672.75
+Europe,AUT,Austria,2008,49679.11
+Europe,AZE,Azerbaijan,2008,5574.6
+Africa,BDI,Burundi,2008,186.87
+Europe,BEL,Belgium,2008,47374.45
+Africa,BEN,Benin,2008,739.26
+Africa,BFA,Burkina Faso,2008,569.64
+Asia,BGD,Bangladesh,2008,537.64
+Europe,BGR,Bulgaria,2008,6916.85
+Asia,BHR,Bahrain,2008,23037.88
+North America,BHS,"Bahamas, The",2008,23674.14
+Europe,BIH,Bosnia and Herzegovina,2008,4802.47
+Europe,BLR,Belarus,2008,6377.36
+North America,BLZ,Belize,2008,4665.74
+North America,BMU,Bermuda,2008,93605.75
+South America,BOL,Bolivia,2008,1695.56
+South America,BRA,Brazil,2008,8622.71
+North America,BRB,Barbados,2008,16358.05
+Asia,BRN,Brunei Darussalam,2008,37093.99
+Asia,BTN,Bhutan,2008,1816.75
+Africa,BWA,Botswana,2008,5746.98
+Africa,CAF,Central African Republic,2008,474.39
+North America,CAN,Canada,2008,45199.08
+Europe,CHE,Switzerland,2008,68555.38
+NULL,CHI,Channel Islands,2008,NULL
+South America,CHL,Chile,2008,10672.25
+Asia,CHN,China,2008,3413.59
+Africa,CIV,Cote d'Ivoire,2008,1282.27
+Africa,CMR,Cameroon,2008,1211.3
+Africa,COG,"Congo, Rep.",2008,3059.23
+South America,COL,Colombia,2008,5405.1
+Africa,COM,Comoros,2008,816.48
+Africa,CPV,Cabo Verde,2008,3692
+North America,CRI,Costa Rica,2008,6581.31
+NULL,CSS,Caribbean small states,2008,9801.13
+North America,CUB,Cuba,2008,5382.82
+Europe,CYP,Cyprus,2008,31928.4
+Europe,CZE,Czech Republic,2008,21709.91
+Europe,DEU,Germany,2008,44132.04
+Africa,DJI,Djibouti,2008,NULL
+North America,DMA,Dominica,2008,6520.13
+Europe,DNK,Denmark,2008,62596.49
+North America,DOM,Dominican Republic,2008,4696.95
+Africa,DZA,Algeria,2008,4786.52
+NULL,EAP,East Asia & Pacific (developing only),2008,3045.67
+NULL,EAS,East Asia & Pacific (all income levels),2008,6306.73
+NULL,ECA,Europe & Central Asia (developing only),2008,6652.65
+NULL,ECS,Europe & Central Asia (all income levels),2008,25374.37
+South America,ECU,Ecuador,2008,4255.85
+Africa,EGY,"Egypt, Arab Rep.",2008,2156.76
+NULL,EMU,Euro area,2008,40862.6
+Africa,ERI,Eritrea,2008,256.44
+Europe,ESP,Spain,2008,34674.16
+Europe,EST,Estonia,2008,17722.5
+Africa,ETH,Ethiopia,2008,309.69
+NULL,EUU,European Union,2008,36537.68
+Europe,FIN,Finland,2008,51186.48
+Oceania,FJI,Fiji,2008,4301.63
+Europe,FRA,France,2008,43991.7
+Europe,FRO,Faeroe Islands,2008,48645.38
+Oceania,FSM,"Micronesia, Fed. Sts.",2008,2500.91
+Africa,GAB,Gabon,2008,10577.92
+Europe,GBR,United Kingdom,2008,43510.26
+Europe,GEO,Georgia,2008,2919.69
+Africa,GHA,Ghana,2008,1234.44
+Africa,GIN,Guinea,2008,437.81
+Africa,GMB,"Gambia, The",2008,612.03
+Africa,GNB,Guinea-Bissau,2008,555.66
+Africa,GNQ,Equatorial Guinea,2008,23511.1
+Europe,GRC,Greece,2008,30398.78
+North America,GRD,Grenada,2008,8008.5
+North America,GRL,Greenland,2008,30883.04
+North America,GTM,Guatemala,2008,2867.48
+South America,GUY,Guyana,2008,2478.41
+NULL,HIC,High income,2008,36566
+Asia,HKG,"Hong Kong SAR, China",2008,31515.66
+North America,HND,Honduras,2008,1883.23
+NULL,HPC,Heavily indebted poor countries (HIPC),2008,666.69
+Europe,HRV,Croatia,2008,15695.82
+North America,HTI,Haiti,2008,664.82
+Europe,HUN,Hungary,2008,15364.68
+Asia,IDN,Indonesia,2008,2178.27
+Europe,IMN,Isle of Man,2008,NULL
+Asia,IND,India,2008,1042.08
+Europe,IRL,Ireland,2008,58810.89
+Asia,IRN,"Iran, Islamic Rep.",2008,4899.31
+Asia,IRQ,Iraq,2008,4472.06
+Europe,ISL,Iceland,2008,53028.79
+Asia,ISR,Israel,2008,29160.24
+Europe,ITA,Italy,2008,38563.05
+North America,JAM,Jamaica,2008,5118.7
+Asia,JOR,Jordan,2008,3797.41
+Asia,JPN,Japan,2008,37972.24
+Europe,KAZ,Kazakhstan,2008,8513.57
+Africa,KEN,Kenya,2008,785.73
+Asia,KGZ,Kyrgyz Republic,2008,966.39
+Asia,KHM,Cambodia,2008,742.57
+Oceania,KIR,Kiribati,2008,1424.04
+North America,KNA,St. Kitts and Nevis,2008,14480.59
+Asia,KOR,"Korea, Rep.",2008,19028.13
+NULL,KSV,Kosovo,2008,3302.92
+Asia,KWT,Kuwait,2008,54548.62
+NULL,LAC,Latin America & Caribbean (developing only),2008,7452.64
+Asia,LAO,Lao PDR,2008,886.76
+Asia,LBN,Lebanon,2008,7185.61
+Africa,LBR,Liberia,2008,231.45
+Africa,LBY,Libya,2008,15853.46
+North America,LCA,St. Lucia,2008,6801.65
+NULL,LCN,Latin America & Caribbean (all income levels),2008,7739.83
+NULL,LDC,Least developed countries: UN classification,2008,660.89
+NULL,LIC,Low income,2008,470.23
+Europe,LIE,Liechtenstein,2008,138536.75
+Asia,LKA,Sri Lanka,2008,2013.91
+NULL,LMC,Lower middle income,2008,1408.21
+NULL,LMY,Low & middle income,2008,2840.59
+Africa,LSO,Lesotho,2008,826.83
+Europe,LTU,Lithuania,2008,14774.71
+Europe,LUX,Luxembourg,2008,112028.53
+Europe,LVA,Latvia,2008,15463.66
+Asia,MAC,"Macao SAR, China",2008,40847.05
+Africa,MAR,Morocco,2008,2827.29
+Europe,MCO,Monaco,2008,193892.33
+Europe,MDA,Moldova,2008,1695.97
+Africa,MDG,Madagascar,2008,471.44
+Asia,MDV,Maldives,2008,6027.32
+NULL,MEA,Middle East & North Africa (all income levels),2008,7091.85
+North America,MEX,Mexico,2008,9559.79
+Oceania,MHL,Marshall Islands,2008,2920.2
+NULL,MIC,Middle income,2008,3231.48
+Europe,MKD,"Macedonia, FYR",2008,4685.62
+Africa,MLI,Mali,2008,665.05
+Europe,MLT,Malta,2008,20895.78
+NULL,MNA,Middle East & North Africa (developing only),2008,3744.69
+Europe,MNE,Montenegro,2008,7305.81
+Asia,MNG,Mongolia,2008,2135.81
+Africa,MOZ,Mozambique,2008,434.53
+Africa,MRT,Mauritania,2008,1107.32
+Africa,MUS,Mauritius,2008,7599.99
+Africa,MWI,Malawi,2008,302.5
+Asia,MYS,Malaysia,2008,8460.36
+NULL,NAC,North America,2008,48099.73
+Africa,NAM,Namibia,2008,4183.23
+Africa,NER,Niger,2008,366.63
+Africa,NGA,Nigeria,2008,1376.02
+North America,NIC,Nicaragua,2008,1456.31
+Europe,NLD,Netherlands,2008,52951.04
+NULL,NOC,High income: nonOECD,2008,17191.25
+Europe,NOR,Norway,2008,95189.87
+Asia,NPL,Nepal,2008,477.93
+Oceania,NZL,New Zealand,2008,30610.29
+NULL,OEC,High income: OECD,2008,41126.83
+NULL,OED,OECD members,2008,36188.36
+Asia,OMN,Oman,2008,23421.36
+NULL,OSS,Other small states,2008,4307.44
+Asia,PAK,Pakistan,2008,1018.38
+North America,PAN,Panama,2008,6472.98
+South America,PER,Peru,2008,4525.22
+Asia,PHL,Philippines,2008,1920.99
+Oceania,PLW,Palau,2008,10516.85
+Oceania,PNG,Papua New Guinea,2008,1222.79
+Europe,POL,Poland,2008,13886.47
+North America,PRI,Puerto Rico,2008,24623.5
+Europe,PRT,Portugal,2008,23860.68
+South America,PRY,Paraguay,2008,2967.41
+NULL,PSS,Pacific island small states,2008,3081.36
+Asia,QAT,Qatar,2008,84812.64
+Europe,ROU,Romania,2008,9949.35
+Europe,RUS,Russian Federation,2008,11700.22
+Africa,RWA,Rwanda,2008,460.9
+NULL,SAS,South Asia,2008,984.77
+Asia,SAU,Saudi Arabia,2008,19714.39
+Africa,SDN,Sudan,2008,1253.11
+Africa,SEN,Senegal,2008,1093.76
+Asia,SGP,Singapore,2008,39382.95
+Oceania,SLB,Solomon Islands,2008,1282.51
+Africa,SLE,Sierra Leone,2008,452.7
+North America,SLV,El Salvador,2008,3483.71
+Europe,SMR,San Marino,2008,62188.93
+Europe,SRB,Serbia,2008,6497.84
+NULL,SSA,Sub-Saharan Africa (developing only),2008,1206.47
+Africa,SSD,South Sudan,2008,1674.05
+NULL,SSF,Sub-Saharan Africa (all income levels),2008,1224.42
+NULL,SST,Small states,2008,5568.02
+Africa,STP,Sao Tome and Principe,2008,1090.41
+South America,SUR,Suriname,2008,6855.18
+Europe,SVK,Slovak Republic,2008,18201.27
+Europe,SVN,Slovenia,2008,27015.08
+Europe,SWE,Sweden,2008,52730.77
+Africa,SWZ,Swaziland,2008,2616.95
+Africa,SYC,Seychelles,2008,11123
+Asia,SYR,Syrian Arab Republic,2008,NULL
+Africa,TCD,Chad,2008,938.47
+Africa,TGO,Togo,2008,527.69
+Asia,THA,Thailand,2008,4118.4
+Asia,TJK,Tajikistan,2008,709.44
+Asia,TKM,Turkmenistan,2008,3918.92
+Asia,TLS,Timor-Leste,2008,643.65
+Oceania,TON,Tonga,2008,3369.21
+North America,TTO,Trinidad and Tobago,2008,21282.79
+Africa,TUN,Tunisia,2008,4331.24
+Europe,TUR,Turkey,2008,10379.49
+Oceania,TUV,Tuvalu,2008,3094.68
+Africa,TZA,Tanzania,2008,503.6
+Africa,UGA,Uganda,2008,448.07
+Europe,UKR,Ukraine,2008,3891.04
+NULL,UMC,Upper middle income,2008,5086.21
+South America,URY,Uruguay,2008,9067.5
+North America,USA,United States,2008,48407.08
+Asia,UZB,Uzbekistan,2008,1023.12
+North America,VCT,St. Vincent and the Grenadines,2008,6403.6
+South America,VEN,"Venezuela, RB",2008,11223.21
+Asia,VNM,Vietnam,2008,1164.56
+Oceania,VUT,Vanuatu,2008,2697.38
+Asia,PSE,West Bank and Gaza,2008,NULL
+NULL,WLD,World,2008,9213.84
+Oceania,WSM,Samoa,2008,3128.73
+Asia,YEM,"Yemen, Rep.",2008,1239.96
+Africa,ZAF,South Africa,2008,5511.2
+Africa,COD,"Congo, Dem. Rep.",2008,198.5
+Africa,ZMB,Zambia,2008,1175.35
+Africa,ZWE,Zimbabwe,2008,345.41
+North America,ABW,Aruba,2009,24639.94
+Europe,AND,Andorra,2009,NULL
+Asia,AFG,Afghanistan,2009,450.66
+Africa,AGO,Angola,2009,3988.68
+Europe,ALB,Albania,2009,3845.72
+NULL,ARB,Arab World,2009,5256.8
+Asia,ARE,United Arab Emirates,2009,33012.82
+South America,ARG,Argentina,2009,7674.34
+Europe,ARM,Armenia,2009,2913.6
+North America,ATG,Antigua and Barbuda,2009,14589.6
+Oceania,AUS,Australia,2009,42721.89
+Europe,AUT,Austria,2009,45872.22
+Europe,AZE,Azerbaijan,2009,4950.29
+Africa,BDI,Burundi,2009,194.9
+Europe,BEL,Belgium,2009,43834.1
+Africa,BEN,Benin,2009,712.62
+Africa,BFA,Burkina Faso,2009,553.04
+Asia,BGD,Bangladesh,2009,597.71
+Europe,BGR,Bulgaria,2009,6524.16
+Asia,BHR,Bahrain,2009,19251.12
+North America,BHS,"Bahamas, The",2009,22060.92
+Europe,BIH,Bosnia and Herzegovina,2009,4433.15
+Europe,BLR,Belarus,2009,5182.63
+North America,BLZ,Belize,2009,4446.61
+North America,BMU,Bermuda,2009,88463.31
+South America,BOL,Bolivia,2009,1735.14
+South America,BRA,Brazil,2009,8373.34
+North America,BRB,Barbados,2009,16460.76
+Asia,BRN,Brunei Darussalam,2009,27212.06
+Asia,BTN,Bhutan,2009,1795.05
+Africa,BWA,Botswana,2009,5178.44
+Africa,CAF,Central African Republic,2009,464.51
+North America,CAN,Canada,2009,39775.04
+Europe,CHE,Switzerland,2009,65790.07
+NULL,CHI,Channel Islands,2009,73577.16
+South America,CHL,Chile,2009,10120.04
+Asia,CHN,China,2009,3749.27
+Africa,CIV,Cote d'Ivoire,2009,1238.71
+Africa,CMR,Cameroon,2009,1102.52
+Africa,COG,"Congo, Rep.",2009,2401.3
+South America,COL,Colombia,2009,5116.75
+Africa,COM,Comoros,2009,803.49
+Africa,CPV,Cabo Verde,2009,3524.33
+North America,CRI,Costa Rica,2009,6385.54
+NULL,CSS,Caribbean small states,2009,8190.05
+North America,CUB,Cuba,2009,5499.12
+Europe,CYP,Cyprus,2009,29427.91
+Europe,CZE,Czech Republic,2009,18883.51
+Europe,DEU,Germany,2009,40270.16
+Africa,DJI,Djibouti,2009,NULL
+North America,DMA,Dominica,2009,6778.66
+Europe,DNK,Denmark,2009,56226.58
+North America,DOM,Dominican Republic,2009,4731.6
+Africa,DZA,Algeria,2009,3771.28
+NULL,EAP,East Asia & Pacific (developing only),2009,3262.59
+NULL,EAS,East Asia & Pacific (all income levels),2009,6436.79
+NULL,ECA,Europe & Central Asia (developing only),2009,5495.42
+NULL,ECS,Europe & Central Asia (all income levels),2009,22191.25
+South America,ECU,Ecuador,2009,4236.78
+Africa,EGY,"Egypt, Arab Rep.",2009,2461.53
+NULL,EMU,Euro area,2009,37240.99
+Africa,ERI,Eritrea,2009,334.06
+Europe,ESP,Spain,2009,31368.51
+Europe,EST,Estonia,2009,14505.72
+Africa,ETH,Ethiopia,2009,332.05
+NULL,EUU,European Union,2009,32523.73
+Europe,FIN,Finland,2009,44837.71
+Oceania,FJI,Fiji,2009,3431.76
+Europe,FRA,France,2009,40487.92
+Europe,FRO,Faeroe Islands,2009,44317.3
+Oceania,FSM,"Micronesia, Fed. Sts.",2009,2668.81
+Africa,GAB,Gabon,2009,7919.71
+Europe,GBR,United Kingdom,2009,35476.35
+Europe,GEO,Georgia,2009,2440.96
+Africa,GHA,Ghana,2009,1096.53
+Africa,GIN,Guinea,2009,435.18
+Africa,GMB,"Gambia, The",2009,553.1
+Africa,GNB,Guinea-Bissau,2009,536.8
+Africa,GNQ,Equatorial Guinea,2009,15300.7
+Europe,GRC,Greece,2009,28451.92
+North America,GRD,Grenada,2009,7435.64
+North America,GRL,Greenland,2009,22507.89
+North America,GTM,Guatemala,2009,2697.39
+South America,GUY,Guyana,2009,2593.37
+NULL,HIC,High income,2009,33803.21
+Asia,HKG,"Hong Kong SAR, China",2009,30697.34
+North America,HND,Honduras,2009,1939.28
+NULL,HPC,Heavily indebted poor countries (HIPC),2009,642.47
+Europe,HRV,Croatia,2009,14053.78
+North America,HTI,Haiti,2009,662.59
+Europe,HUN,Hungary,2009,12634.55
+Asia,IDN,Indonesia,2009,2272.04
+Europe,IMN,Isle of Man,2009,NULL
+Asia,IND,India,2009,1147.24
+Europe,IRL,Ireland,2009,49707.68
+Asia,IRN,"Iran, Islamic Rep.",2009,4931.28
+Asia,IRQ,Iraq,2009,3701.86
+Europe,ISL,Iceland,2009,38039.3
+Asia,ISR,Israel,2009,27491.51
+Europe,ITA,Italy,2009,35073.16
+North America,JAM,Jamaica,2009,4491.47
+Asia,JOR,Jordan,2009,4027.05
+Asia,JPN,Japan,2009,39473.36
+Europe,KAZ,Kazakhstan,2009,7165.28
+Africa,KEN,Kenya,2009,767.87
+Asia,KGZ,Kyrgyz Republic,2009,871.22
+Asia,KHM,Cambodia,2009,735.42
+Oceania,KIR,Kiribati,2009,1320.48
+North America,KNA,St. Kitts and Nevis,2009,13316.34
+Asia,KOR,"Korea, Rep.",2009,16958.64
+NULL,KSV,Kosovo,2009,3198.93
+Asia,KWT,Kuwait,2009,37160.54
+NULL,LAC,Latin America & Caribbean (developing only),2009,6916.58
+Asia,LAO,Lao PDR,2009,930.59
+Asia,LBN,Lebanon,2009,8159.02
+Africa,LBR,Liberia,2009,302.28
+Africa,LBY,Libya,2009,10455.58
+North America,LCA,St. Lucia,2009,6700.51
+NULL,LCN,Latin America & Caribbean (all income levels),2009,7196.18
+NULL,LDC,Least developed countries: UN classification,2009,637.55
+NULL,LIC,Low income,2009,479.12
+Europe,LIE,Liechtenstein,2009,134617.38
+Asia,LKA,Sri Lanka,2009,2057.11
+NULL,LMC,Lower middle income,2009,1421.09
+NULL,LMY,Low & middle income,2009,2798.47
+Africa,LSO,Lesotho,2009,862.79
+Europe,LTU,Lithuania,2009,11649.43
+Europe,LUX,Luxembourg,2009,99281.77
+Europe,LVA,Latvia,2009,12082.06
+Asia,MAC,"Macao SAR, China",2009,40859.99
+Africa,MAR,Morocco,2009,2861.03
+Europe,MCO,Monaco,2009,153042.34
+Europe,MDA,Moldova,2009,1525.53
+Africa,MDG,Madagascar,2009,419.09
+Asia,MDV,Maldives,2009,6208.6
+NULL,MEA,Middle East & North Africa (all income levels),2009,6180.31
+North America,MEX,Mexico,2009,7690.55
+Oceania,MHL,Marshall Islands,2009,2895.64
+NULL,MIC,Middle income,2009,3185.05
+Europe,MKD,"Macedonia, FYR",2009,4433.86
+Africa,MLI,Mali,2009,661.13
+Europe,MLT,Malta,2009,19636.01
+NULL,MNA,Middle East & North Africa (developing only),2009,3528.98
+Europe,MNE,Montenegro,2009,6712.62
+Asia,MNG,Mongolia,2009,1715.36
+Africa,MOZ,Mozambique,2009,414.11
+Africa,MRT,Mauritania,2009,860.91
+Africa,MUS,Mauritius,2009,6928.97
+Africa,MWI,Malawi,2009,345.19
+Asia,MYS,Malaysia,2009,7277.76
+NULL,NAC,North America,2009,46293.3
+Africa,NAM,Namibia,2009,4133.06
+Africa,NER,Niger,2009,352.69
+Africa,NGA,Nigeria,2009,1090.75
+North America,NIC,Nicaragua,2009,1420.11
+Europe,NLD,Netherlands,2009,48173.91
+NULL,NOC,High income: nonOECD,2009,13960.72
+Europe,NOR,Norway,2009,78457.42
+Asia,NPL,Nepal,2009,484.27
+Oceania,NZL,New Zealand,2009,27474.33
+NULL,OEC,High income: OECD,2009,38476.77
+NULL,OED,OECD members,2009,33637.83
+Asia,OMN,Oman,2009,18114.48
+NULL,OSS,Other small states,2009,3660.75
+Asia,PAK,Pakistan,2009,988.59
+North America,PAN,Panama,2009,6682.5
+South America,PER,Peru,2009,4495.16
+Asia,PHL,Philippines,2009,1831.97
+Oceania,PLW,Palau,2009,9709.27
+Oceania,PNG,Papua New Guinea,2009,1180.43
+Europe,POL,Poland,2009,11294.87
+North America,PRI,Puerto Rico,2009,25497.15
+Europe,PRT,Portugal,2009,22153.1
+South America,PRY,Paraguay,2009,2513.63
+NULL,PSS,Pacific island small states,2009,2644.75
+Asia,QAT,Qatar,2009,62527.64
+Europe,ROU,Romania,2009,8068.96
+Europe,RUS,Russian Federation,2009,8615.66
+Africa,RWA,Rwanda,2009,498.85
+NULL,SAS,South Asia,2009,1068.17
+Asia,SAU,Saudi Arabia,2009,16013.28
+Africa,SDN,Sudan,2009,1190.79
+Africa,SEN,Senegal,2009,1017.97
+Asia,SGP,Singapore,2009,37859.79
+Oceania,SLB,Solomon Islands,2009,1167.65
+Africa,SLE,Sierra Leone,2009,435.11
+North America,SLV,El Salvador,2009,3341.32
+Europe,SMR,San Marino,2009,NULL
+Europe,SRB,Serbia,2009,5497.96
+NULL,SSA,Sub-Saharan Africa (developing only),2009,1114.88
+Africa,SSD,South Sudan,2009,1245.04
+NULL,SSF,Sub-Saharan Africa (all income levels),2009,1126.38
+NULL,SST,Small states,2009,4690.91
+Africa,STP,Sao Tome and Principe,2009,1134.11
+South America,SUR,Suriname,2009,7450.23
+Europe,SVK,Slovak Republic,2009,16196.28
+Europe,SVN,Slovenia,2009,24051.04
+Europe,SWE,Sweden,2009,43639.55
+Africa,SWZ,Swaziland,2009,2693.52
+Africa,SYC,Seychelles,2009,9707.27
+Asia,SYR,Syrian Arab Republic,2009,NULL
+Africa,TCD,Chad,2009,813.76
+Africa,TGO,Togo,2009,514.77
+Asia,THA,Thailand,2009,3978.91
+Asia,TJK,Tajikistan,2009,668.62
+Asia,TKM,Turkmenistan,2009,4059.97
+Asia,TLS,Timor-Leste,2009,744.73
+Oceania,TON,Tonga,2009,3075.82
+North America,TTO,Trinidad and Tobago,2009,14557.02
+Africa,TUN,Tunisia,2009,4177.13
+Europe,TUR,Turkey,2009,8626.4
+Oceania,TUV,Tuvalu,2009,2763.18
+Africa,TZA,Tanzania,2009,504.2
+Africa,UGA,Uganda,2009,451.08
+Europe,UKR,Ukraine,2009,2545.48
+NULL,UMC,Upper middle income,2009,4993.66
+South America,URY,Uruguay,2009,8995.69
+North America,USA,United States,2009,46998.82
+Asia,UZB,Uzbekistan,2009,1181.85
+North America,VCT,St. Vincent and the Grenadines,2009,6154.22
+South America,VEN,"Venezuela, RB",2009,11524.98
+Asia,VNM,Vietnam,2009,1232.37
+Oceania,VUT,Vanuatu,2009,2642.93
+Asia,PSE,West Bank and Gaza,2009,NULL
+NULL,WLD,World,2009,8625.56
+Oceania,WSM,Samoa,2009,2712.41
+Asia,YEM,"Yemen, Rep.",2009,1130.48
+Africa,ZAF,South Africa,2009,5654.49
+Africa,COD,"Congo, Dem. Rep.",2009,185.23
+Africa,ZMB,Zambia,2009,998.44
+Africa,ZWE,Zimbabwe,2009,475.85
+North America,ABW,Aruba,2010,24289.14
+Europe,AND,Andorra,2010,NULL
+Asia,AFG,Afghanistan,2010,561.2
+Africa,AGO,Angola,2010,4218.65
+Europe,ALB,Albania,2010,3764.33
+NULL,ARB,Arab World,2010,6054.64
+Asia,ARE,United Arab Emirates,2010,34048.52
+South America,ARG,Argentina,2010,9132.96
+Europe,ARM,Armenia,2010,3124.79
+North America,ATG,Antigua and Barbuda,2010,13315.24
+Oceania,AUS,Australia,2010,51824.8
+Europe,AUT,Austria,2010,45016.7
+Europe,AZE,Azerbaijan,2010,5843.17
+Africa,BDI,Burundi,2010,219.53
+Europe,BEL,Belgium,2010,43242.35
+Africa,BEN,Benin,2010,689.65
+Africa,BFA,Burkina Faso,2010,592.61
+Asia,BGD,Bangladesh,2010,664.06
+Europe,BGR,Bulgaria,2010,6453.48
+Asia,BHR,Bahrain,2010,20545.97
+North America,BHS,"Bahamas, The",2010,21881.08
+Europe,BIH,Bosnia and Herzegovina,2010,4361.88
+Europe,BLR,Belarus,2010,5818.85
+North America,BLZ,Belize,2010,4529.89
+North America,BMU,Bermuda,2010,88207.33
+South America,BOL,Bolivia,2010,1934.68
+South America,BRA,Brazil,2010,10978.09
+North America,BRB,Barbados,2010,15812.28
+Asia,BRN,Brunei Darussalam,2010,30880.35
+Asia,BTN,Bhutan,2010,2211.23
+Africa,BWA,Botswana,2010,6980.36
+Africa,CAF,Central African Republic,2010,456.56
+North America,CAN,Canada,2010,46376.34
+Europe,CHE,Switzerland,2010,70370.02
+NULL,CHI,Channel Islands,2010,NULL
+South America,CHL,Chile,2010,12684.93
+Asia,CHN,China,2010,4433.36
+Africa,CIV,Cote d'Ivoire,2010,1207.85
+Africa,CMR,Cameroon,2010,1090.62
+Africa,COG,"Congo, Rep.",2010,2920.41
+South America,COL,Colombia,2010,6179.4
+Africa,COM,Comoros,2010,795.48
+Africa,CPV,Cabo Verde,2010,3413.26
+North America,CRI,Costa Rica,2010,7773.19
+NULL,CSS,Caribbean small states,2010,8601.7
+North America,CUB,Cuba,2010,5701.96
+Europe,CYP,Cyprus,2010,27889.04
+Europe,CZE,Czech Republic,2010,18948.6
+Europe,DEU,Germany,2010,40407.96
+Africa,DJI,Djibouti,2010,NULL
+North America,DMA,Dominica,2010,6630.2
+Europe,DNK,Denmark,2010,56451.73
+North America,DOM,Dominican Republic,2010,5166.15
+Africa,DZA,Algeria,2010,4349.57
+NULL,EAP,East Asia & Pacific (developing only),2010,3885.15
+NULL,EAS,East Asia & Pacific (all income levels),2010,7421.42
+NULL,ECA,Europe & Central Asia (developing only),2010,6170.29
+NULL,ECS,Europe & Central Asia (all income levels),2010,22645.57
+South America,ECU,Ecuador,2010,4500.59
+Africa,EGY,"Egypt, Arab Rep.",2010,2803.53
+NULL,EMU,Euro area,2010,36371.59
+Africa,ERI,Eritrea,2010,368.75
+Europe,ESP,Spain,2010,29732.44
+Europe,EST,Estonia,2010,14245.56
+Africa,ETH,Ethiopia,2010,301.84
+NULL,EUU,European Union,2010,32275.86
+Europe,FIN,Finland,2010,44134.05
+Oceania,FJI,Fiji,2010,3747.67
+Europe,FRA,France,2010,39443.19
+Europe,FRO,Faeroe Islands,2010,NULL
+Oceania,FSM,"Micronesia, Fed. Sts.",2010,2838.45
+Africa,GAB,Gabon,2010,9321.96
+Europe,GBR,United Kingdom,2010,36424.53
+Europe,GEO,Georgia,2010,2613.69
+Africa,GHA,Ghana,2010,1326.07
+Africa,GIN,Guinea,2010,435.45
+Africa,GMB,"Gambia, The",2010,566.34
+Africa,GNB,Guinea-Bissau,2010,526.52
+Africa,GNQ,Equatorial Guinea,2010,17612.76
+Europe,GRC,Greece,2010,26020.15
+North America,GRD,Grenada,2010,7485.91
+North America,GRL,Greenland,2010,NULL
+North America,GTM,Guatemala,2010,2882.4
+South America,GUY,Guyana,2010,2873.95
+NULL,HIC,High income,2010,35427.09
+Asia,HKG,"Hong Kong SAR, China",2010,32558.26
+North America,HND,Honduras,2010,2063.93
+NULL,HPC,Heavily indebted poor countries (HIPC),2010,690.71
+Europe,HRV,Croatia,2010,13326.51
+North America,HTI,Haiti,2010,670.4
+Europe,HUN,Hungary,2010,12750.3
+Asia,IDN,Indonesia,2010,2946.66
+Europe,IMN,Isle of Man,2010,NULL
+Asia,IND,India,2010,1417.07
+Europe,IRL,Ireland,2010,45916.68
+Asia,IRN,"Iran, Islamic Rep.",2010,5674.92
+Asia,IRQ,Iraq,2010,4612.52
+Europe,ISL,Iceland,2010,39507.14
+Asia,ISR,Israel,2010,30389.11
+Europe,ITA,Italy,2010,33982.15
+North America,JAM,Jamaica,2010,4906.67
+Asia,JOR,Jordan,2010,4370.72
+Asia,JPN,Japan,2010,43117.77
+Europe,KAZ,Kazakhstan,2010,9070.96
+Africa,KEN,Kenya,2010,787.06
+Asia,KGZ,Kyrgyz Republic,2010,880.04
+Asia,KHM,Cambodia,2010,782.62
+Oceania,KIR,Kiribati,2010,1539.05
+North America,KNA,St. Kitts and Nevis,2010,12904.07
+Asia,KOR,"Korea, Rep.",2010,20540.03
+NULL,KSV,Kosovo,2010,3238.65
+Asia,KWT,Kuwait,2010,40090.75
+NULL,LAC,Latin America & Caribbean (developing only),2010,8451.5
+Asia,LAO,Lao PDR,2010,1122.85
+Asia,LBN,Lebanon,2010,8551.85
+Africa,LBR,Liberia,2010,326.6
+Africa,LBY,Libya,2010,NULL
+North America,LCA,St. Lucia,2010,6814.4
+NULL,LCN,Latin America & Caribbean (all income levels),2010,8758.78
+NULL,LDC,Least developed countries: UN classification,2010,700.06
+NULL,LIC,Low income,2010,512.81
+Europe,LIE,Liechtenstein,2010,NULL
+Asia,LKA,Sri Lanka,2010,2400.02
+NULL,LMC,Lower middle income,2010,1764.78
+NULL,LMY,Low & middle income,2010,3345.52
+Africa,LSO,Lesotho,2010,1097.02
+Europe,LTU,Lithuania,2010,11722.01
+Europe,LUX,Luxembourg,2010,102678.8
+Europe,LVA,Latvia,2010,11446.51
+Asia,MAC,"Macao SAR, China",2010,53045.88
+Africa,MAR,Morocco,2010,2822.73
+Europe,MCO,Monaco,2010,145229.84
+Europe,MDA,Moldova,2010,1631.54
+Africa,MDG,Madagascar,2010,419.22
+Asia,MDV,Maldives,2010,6552.48
+NULL,MEA,Middle East & North Africa (all income levels),2010,7081.2
+North America,MEX,Mexico,2010,8884.56
+Oceania,MHL,Marshall Islands,2010,3112.84
+NULL,MIC,Middle income,2010,3822.04
+Europe,MKD,"Macedonia, FYR",2010,4442.3
+Africa,MLI,Mali,2010,673.69
+Europe,MLT,Malta,2010,19695.26
+NULL,MNA,Middle East & North Africa (developing only),2010,4001.59
+Europe,MNE,Montenegro,2010,6635.91
+Asia,MNG,Mongolia,2010,2285.65
+Africa,MOZ,Mozambique,2010,386.96
+Africa,MRT,Mauritania,2010,1017.17
+Africa,MUS,Mauritius,2010,7586.97
+Africa,MWI,Malawi,2010,359.58
+Asia,MYS,Malaysia,2010,8754.24
+NULL,NAC,North America,2010,48169.04
+Africa,NAM,Namibia,2010,5078.51
+Africa,NER,Niger,2010,359.8
+Africa,NGA,Nigeria,2010,2293.89
+North America,NIC,Nicaragua,2010,1474.75
+Europe,NLD,Netherlands,2010,46773.36
+NULL,NOC,High income: nonOECD,2010,16372.21
+Europe,NOR,Norway,2010,86155.53
+Asia,NPL,Nepal,2010,596.38
+Oceania,NZL,New Zealand,2010,32796.09
+NULL,OEC,High income: OECD,2010,39943.05
+NULL,OED,OECD members,2010,35043.33
+Asia,OMN,Oman,2010,20983.9
+NULL,OSS,Other small states,2010,4271.75
+Asia,PAK,Pakistan,2010,1024.59
+North America,PAN,Panama,2010,7229.11
+South America,PER,Peru,2010,5386.01
+Asia,PHL,Philippines,2010,2135.92
+Oceania,PLW,Palau,2010,9601.53
+Oceania,PNG,Papua New Guinea,2010,1382.14
+Europe,POL,Poland,2010,12302.03
+North America,PRI,Puerto Rico,2010,26106.39
+Europe,PRT,Portugal,2010,21653
+South America,PRY,Paraguay,2010,3100.5
+NULL,PSS,Pacific island small states,2010,2904.19
+Asia,QAT,Qatar,2010,72773.31
+Europe,ROU,Romania,2010,8139.15
+Europe,RUS,Russian Federation,2010,10709.51
+Africa,RWA,Rwanda,2010,519.02
+NULL,SAS,South Asia,2010,1289.15
+Asia,SAU,Saudi Arabia,2010,19326.58
+Africa,SDN,Sudan,2010,1422.37
+Africa,SEN,Senegal,2010,998.6
+Asia,SGP,Singapore,2010,45639.35
+Oceania,SLB,Solomon Islands,2010,1289.07
+Africa,SLE,Sierra Leone,2010,447.75
+North America,SLV,El Salvador,2010,3444.46
+Europe,SMR,San Marino,2010,NULL
+Europe,SRB,Serbia,2010,5073.07
+NULL,SSA,Sub-Saharan Africa (developing only),2010,1465.27
+Africa,SSD,South Sudan,2010,1526.92
+NULL,SSF,Sub-Saharan Africa (all income levels),2010,1478.43
+NULL,SST,Small states,2010,5215.63
+Africa,STP,Sao Tome and Principe,2010,1127.98
+South America,SUR,Suriname,2010,8320.65
+Europe,SVK,Slovak Republic,2010,16151.09
+Europe,SVN,Slovenia,2010,22897.94
+Europe,SWE,Sweden,2010,49359.87
+Africa,SWZ,Swaziland,2010,3093.54
+Africa,SYC,Seychelles,2010,10805.1
+Asia,SYR,Syrian Arab Republic,2010,NULL
+Africa,TCD,Chad,2010,909.3
+Africa,TGO,Togo,2010,503.16
+Asia,THA,Thailand,2010,4802.66
+Asia,TJK,Tajikistan,2010,739.74
+Asia,TKM,Turkmenistan,2010,4392.72
+Asia,TLS,Timor-Leste,2010,817.77
+Oceania,TON,Tonga,2010,3546.78
+North America,TTO,Trinidad and Tobago,2010,15561.85
+Africa,TUN,Tunisia,2010,4206.78
+Europe,TUR,Turkey,2010,10135.42
+Oceania,TUV,Tuvalu,2010,3238.5
+Africa,TZA,Tanzania,2010,524.69
+Africa,UGA,Uganda,2010,471.68
+Europe,UKR,Ukraine,2010,2973.98
+NULL,UMC,Upper middle income,2010,5948.18
+South America,URY,Uruguay,2010,11520.29
+North America,USA,United States,2010,48357.68
+Asia,UZB,Uzbekistan,2010,1377.08
+North America,VCT,St. Vincent and the Grenadines,2010,6172.58
+South America,VEN,"Venezuela, RB",2010,13559.33
+Asia,VNM,Vietnam,2010,1333.58
+Oceania,VUT,Vanuatu,2010,2965.75
+Asia,PSE,West Bank and Gaza,2010,NULL
+NULL,WLD,World,2010,9339.42
+Oceania,WSM,Samoa,2010,3075.65
+Asia,YEM,"Yemen, Rep.",2010,1363.74
+Africa,ZAF,South Africa,2010,7136.96
+Africa,COD,"Congo, Dem. Rep.",2010,211.26
+Africa,ZMB,Zambia,2010,1224.95
+Africa,ZWE,Zimbabwe,2010,568.43
+North America,ABW,Aruba,2011,25354.78
+Europe,AND,Andorra,2011,NULL
+Asia,AFG,Afghanistan,2011,613.98
+Africa,AGO,Angola,2011,5159.23
+Europe,ALB,Albania,2011,4109.08
+NULL,ARB,Arab World,2011,7214.84
+Asia,ARE,United Arab Emirates,2011,39057.84
+South America,ARG,Argentina,2011,10951.58
+Europe,ARM,Armenia,2011,3421.73
+North America,ATG,Antigua and Barbuda,2011,12420.16
+Oceania,AUS,Australia,2011,62080.98
+Europe,AUT,Austria,2011,49485.48
+Europe,AZE,Azerbaijan,2011,7189.81
+Africa,BDI,Burundi,2011,246.91
+Europe,BEL,Belgium,2011,46463.73
+Africa,BEN,Benin,2011,745.92
+Africa,BFA,Burkina Faso,2011,649.93
+Asia,BGD,Bangladesh,2011,731.89
+Europe,BGR,Bulgaria,2011,7286.64
+Asia,BHR,Bahrain,2011,22466.88
+North America,BHS,"Bahamas, The",2011,21490.36
+Europe,BIH,Bosnia and Herzegovina,2011,4754.07
+Europe,BLR,Belarus,2011,6305.77
+North America,BLZ,Belize,2011,4720.82
+North America,BMU,Bermuda,2011,85973.16
+South America,BOL,Bolivia,2011,2319.61
+South America,BRA,Brazil,2011,12575.98
+North America,BRB,Barbados,2011,15503.33
+Asia,BRN,Brunei Darussalam,2011,40244.31
+Asia,BTN,Bhutan,2011,2513.94
+Africa,BWA,Botswana,2011,7697.4
+Africa,CAF,Central African Republic,2011,498.78
+North America,CAN,Canada,2011,50578.35
+Europe,CHE,Switzerland,2011,83087.05
+NULL,CHI,Channel Islands,2011,NULL
+South America,CHL,Chile,2011,14512.61
+Asia,CHN,China,2011,5447.34
+Africa,CIV,Cote d'Ivoire,2011,1241.56
+Africa,CMR,Cameroon,2011,1204.7
+Africa,COG,"Congo, Rep.",2011,3414.05
+South America,COL,Colombia,2011,7148.86
+Africa,COM,Comoros,2011,871.69
+Africa,CPV,Cabo Verde,2011,3801.45
+North America,CRI,Costa Rica,2011,8660.83
+NULL,CSS,Caribbean small states,2011,9199.06
+North America,CUB,Cuba,2011,6051.22
+Europe,CYP,Cyprus,2011,29206.51
+Europe,CZE,Czech Republic,2011,20580.18
+Europe,DEU,Germany,2011,44354.68
+Africa,DJI,Djibouti,2011,NULL
+North America,DMA,Dominica,2011,6780.54
+Europe,DNK,Denmark,2011,59897.53
+North America,DOM,Dominican Republic,2011,5492.65
+Africa,DZA,Algeria,2011,5271.59
+NULL,EAP,East Asia & Pacific (developing only),2011,4699.74
+NULL,EAS,East Asia & Pacific (all income levels),2011,8510.1
+NULL,ECA,Europe & Central Asia (developing only),2011,6842.35
+NULL,ECS,Europe & Central Asia (all income levels),2011,24849.99
+South America,ECU,Ecuador,2011,5035.24
+Africa,EGY,"Egypt, Arab Rep.",2011,2972.58
+NULL,EMU,Euro area,2011,39153.48
+Africa,ERI,Eritrea,2011,439.54
+Europe,ESP,Spain,2011,31117.9
+Europe,EST,Estonia,2011,16885.72
+Africa,ETH,Ethiopia,2011,334.72
+NULL,EUU,European Union,2011,34859.25
+Europe,FIN,Finland,2011,48677.77
+Oceania,FJI,Fiji,2011,4324.69
+Europe,FRA,France,2011,42559.92
+Europe,FRO,Faeroe Islands,2011,NULL
+Oceania,FSM,"Micronesia, Fed. Sts.",2011,3000.15
+Africa,GAB,Gabon,2011,11768.61
+Europe,GBR,United Kingdom,2011,39186.44
+Europe,GEO,Georgia,2011,3219.57
+Africa,GHA,Ghana,2011,1594.03
+Africa,GIN,Guinea,2011,454
+Africa,GMB,"Gambia, The",2011,517.75
+Africa,GNB,Guinea-Bissau,2011,595.83
+Africa,GNQ,Equatorial Guinea,2011,23473.44
+Europe,GRC,Greece,2011,26061.44
+North America,GRD,Grenada,2011,7766.47
+North America,GRL,Greenland,2011,NULL
+North America,GTM,Guatemala,2011,3242.69
+South America,GUY,Guyana,2011,3258.05
+NULL,HIC,High income,2011,38190.01
+Asia,HKG,"Hong Kong SAR, China",2011,35172.52
+North America,HND,Honduras,2011,2261.65
+NULL,HPC,Heavily indebted poor countries (HIPC),2011,748.92
+Europe,HRV,Croatia,2011,14434.7
+North America,HTI,Haiti,2011,732.21
+Europe,HUN,Hungary,2011,13783.84
+Asia,IDN,Indonesia,2011,3471.43
+Europe,IMN,Isle of Man,2011,NULL
+Asia,IND,India,2011,1539.6
+Europe,IRL,Ireland,2011,49387.27
+Asia,IRN,"Iran, Islamic Rep.",2011,7006.05
+Asia,IRQ,Iraq,2011,6019.42
+Europe,ISL,Iceland,2011,44030.58
+Asia,ISR,Israel,2011,33250.51
+Europe,ITA,Italy,2011,36180.04
+North America,JAM,Jamaica,2011,5334.57
+Asia,JOR,Jordan,2011,4665.94
+Asia,JPN,Japan,2011,46134.57
+Europe,KAZ,Kazakhstan,2011,11358.01
+Africa,KEN,Kenya,2011,799.96
+Asia,KGZ,Kyrgyz Republic,2011,1124.08
+Asia,KHM,Cambodia,2011,878.38
+Oceania,KIR,Kiribati,2011,1735.55
+North America,KNA,St. Kitts and Nevis,2011,13198.36
+Asia,KOR,"Korea, Rep.",2011,22388.2
+NULL,KSV,Kosovo,2011,3705.67
+Asia,KWT,Kuwait,2011,51396.86
+NULL,LAC,Latin America & Caribbean (developing only),2011,9345.31
+Asia,LAO,Lao PDR,2011,1265.71
+Asia,LBN,Lebanon,2011,9148.13
+Africa,LBR,Liberia,2011,376.93
+Africa,LBY,Libya,2011,NULL
+North America,LCA,St. Lucia,2011,7023.32
+NULL,LCN,Latin America & Caribbean (all income levels),2011,9686.51
+NULL,LDC,Least developed countries: UN classification,2011,777.72
+NULL,LIC,Low income,2011,564.07
+Europe,LIE,Liechtenstein,2011,NULL
+Asia,LKA,Sri Lanka,2011,2835.99
+NULL,LMC,Lower middle income,2011,1969.11
+NULL,LMY,Low & middle income,2011,3843.48
+Africa,LSO,Lesotho,2011,1243.91
+Europe,LTU,Lithuania,2011,14158.01
+Europe,LUX,Luxembourg,2011,111913.19
+Europe,LVA,Latvia,2011,13827.36
+Asia,MAC,"Macao SAR, China",2011,67359.48
+Africa,MAR,Morocco,2011,3044.11
+Europe,MCO,Monaco,2011,163025.86
+Europe,MDA,Moldova,2011,1970.57
+Africa,MDG,Madagascar,2011,457.21
+Asia,MDV,Maldives,2011,6487.56
+NULL,MEA,Middle East & North Africa (all income levels),2011,8467.65
+North America,MEX,Mexico,2011,9717.47
+Oceania,MHL,Marshall Islands,2011,3251.74
+NULL,MIC,Middle income,2011,4400.89
+Europe,MKD,"Macedonia, FYR",2011,4961.81
+Africa,MLI,Mali,2011,740.52
+Europe,MLT,Malta,2011,21985.34
+NULL,MNA,Middle East & North Africa (developing only),2011,4696.27
+Europe,MNE,Montenegro,2011,7253.45
+Asia,MNG,Mongolia,2011,3181.1
+Africa,MOZ,Mozambique,2011,511.3
+Africa,MRT,Mauritania,2011,1154.07
+Africa,MUS,Mauritius,2011,8748.14
+Africa,MWI,Malawi,2011,363.64
+Asia,MYS,Malaysia,2011,10058.04
+NULL,NAC,North America,2011,49932.35
+Africa,NAM,Namibia,2011,5692.19
+Africa,NER,Niger,2011,388.33
+Africa,NGA,Nigeria,2011,2518.63
+North America,NIC,Nicaragua,2011,1631.72
+Europe,NLD,Netherlands,2011,49886.29
+NULL,NOC,High income: nonOECD,2011,19584.4
+Europe,NOR,Norway,2011,99172.62
+Asia,NPL,Nepal,2011,704.19
+Oceania,NZL,New Zealand,2011,36918.79
+NULL,OEC,High income: OECD,2011,42623.16
+NULL,OED,OECD members,2011,37379.45
+Asia,OMN,Oman,2011,23132.94
+NULL,OSS,Other small states,2011,4993.66
+Asia,PAK,Pakistan,2011,1213.93
+North America,PAN,Panama,2011,8372.58
+South America,PER,Peru,2011,6112.16
+Asia,PHL,Philippines,2011,2357.57
+Oceania,PLW,Palau,2011,10332.1
+Oceania,PNG,Papua New Guinea,2011,1767.24
+Europe,POL,Poland,2011,13382.07
+North America,PRI,Puerto Rico,2011,26733.76
+Europe,PRT,Portugal,2011,22532.51
+South America,PRY,Paraguay,2011,3956.73
+NULL,PSS,Pacific island small states,2011,3309.7
+Asia,QAT,Qatar,2011,90804.66
+Europe,ROU,Romania,2011,9063.68
+Europe,RUS,Russian Federation,2011,13284.03
+Africa,RWA,Rwanda,2011,570.17
+NULL,SAS,South Asia,2011,1416.13
+Asia,SAU,Saudi Arabia,2011,24116.17
+Africa,SDN,Sudan,2011,1537.6
+Africa,SEN,Senegal,2011,1083.26
+Asia,SGP,Singapore,2011,51241.74
+Oceania,SLB,Solomon Islands,2011,1610.92
+Africa,SLE,Sierra Leone,2011,501.02
+North America,SLV,El Salvador,2011,3698.55
+Europe,SMR,San Marino,2011,NULL
+Europe,SRB,Serbia,2011,5964.1
+NULL,SSA,Sub-Saharan Africa (developing only),2011,1607.28
+Africa,SSD,South Sudan,2011,1844.3
+NULL,SSF,Sub-Saharan Africa (all income levels),2011,1625.04
+NULL,SST,Small states,2011,5872.62
+Africa,STP,Sao Tome and Principe,2011,1355.45
+South America,SUR,Suriname,2011,8236.2
+Europe,SVK,Slovak Republic,2011,17760.41
+Europe,SVN,Slovenia,2011,24478.35
+Europe,SWE,Sweden,2011,56755.33
+Africa,SWZ,Swaziland,2011,3274.39
+Africa,SYC,Seychelles,2011,12289.26
+Asia,SYR,Syrian Arab Republic,2011,NULL
+Africa,TCD,Chad,2011,1006.32
+Africa,TGO,Togo,2011,569.47
+Asia,THA,Thailand,2011,5192.12
+Asia,TJK,Tajikistan,2011,834.64
+Asia,TKM,Turkmenistan,2011,5724.54
+Asia,TLS,Timor-Leste,2011,959.54
+Oceania,TON,Tonga,2011,4046.12
+North America,TTO,Trinidad and Tobago,2011,17686.73
+Africa,TUN,Tunisia,2011,4350.34
+Europe,TUR,Turkey,2011,10604.84
+Oceania,TUV,Tuvalu,2011,3993.65
+Africa,TZA,Tanzania,2011,530.39
+Africa,UGA,Uganda,2011,440.8
+Europe,UKR,Ukraine,2011,3575.51
+NULL,UMC,Upper middle income,2011,6932.43
+South America,URY,Uruguay,2011,13723.92
+North America,USA,United States,2011,49853.68
+Asia,UZB,Uzbekistan,2011,1544.83
+North America,VCT,St. Vincent and the Grenadines,2011,6291.26
+South America,VEN,"Venezuela, RB",2011,10727.98
+Asia,VNM,Vietnam,2011,1543.03
+Oceania,VUT,Vanuatu,2011,3252.14
+Asia,PSE,West Bank and Gaza,2011,NULL
+NULL,WLD,World,2011,10224.25
+Oceania,WSM,Samoa,2011,3361.96
+Asia,YEM,"Yemen, Rep.",2011,1448.56
+Africa,ZAF,South Africa,2011,7789.94
+Africa,COD,"Congo, Dem. Rep.",2011,245.58
+Africa,ZMB,Zambia,2011,1408.56
+Africa,ZWE,Zimbabwe,2011,663.64
+North America,ABW,Aruba,2012,NULL
+Europe,AND,Andorra,2012,NULL
+Asia,AFG,Afghanistan,2012,687.25
+Africa,AGO,Angola,2012,5482.43
+Europe,ALB,Albania,2012,3999.93
+NULL,ARB,Arab World,2012,7610.96
+Asia,ARE,United Arab Emirates,2012,41691.7
+South America,ARG,Argentina,2012,11573.07
+Europe,ARM,Armenia,2012,3351.38
+North America,ATG,Antigua and Barbuda,2012,12733.49
+Oceania,AUS,Australia,2012,67441.59
+Europe,AUT,Austria,2012,46791.78
+Europe,AZE,Azerbaijan,2012,7165.03
+Africa,BDI,Burundi,2012,251.01
+Europe,BEL,Belgium,2012,43398.69
+Africa,BEN,Benin,2012,751.92
+Africa,BFA,Burkina Faso,2012,651.65
+Asia,BGD,Bangladesh,2012,752.16
+Europe,BGR,Bulgaria,2012,6976.85
+Asia,BHR,Bahrain,2012,23039.68
+North America,BHS,"Bahamas, The",2012,21908.28
+Europe,BIH,Bosnia and Herzegovina,2012,4555.64
+Europe,BLR,Belarus,2012,6685.02
+North America,BLZ,Belize,2012,NULL
+North America,BMU,Bermuda,2012,84460.33
+South America,BOL,Bolivia,2012,2575.68
+South America,BRA,Brazil,2012,11339.52
+North America,BRB,Barbados,2012,14917.15
+Asia,BRN,Brunei Darussalam,2012,41126.61
+Asia,BTN,Bhutan,2012,2398.91
+Africa,BWA,Botswana,2012,7238.02
+Africa,CAF,Central African Republic,2012,482.67
+North America,CAN,Canada,2012,51206.16
+Europe,CHE,Switzerland,2012,78927.6
+NULL,CHI,Channel Islands,2012,NULL
+South America,CHL,Chile,2012,15452.17
+Asia,CHN,China,2012,6091.01
+Africa,CIV,Cote d'Ivoire,2012,1243.99
+Africa,CMR,Cameroon,2012,1166.91
+Africa,COG,"Congo, Rep.",2012,3153.74
+South America,COL,Colombia,2012,7747.84
+Africa,COM,Comoros,2012,830.52
+Africa,CPV,Cabo Verde,2012,3695.42
+North America,CRI,Costa Rica,2012,9386.3
+NULL,CSS,Caribbean small states,2012,9323.41
+North America,CUB,Cuba,2012,NULL
+Europe,CYP,Cyprus,2012,26070.37
+Europe,CZE,Czech Republic,2012,18689.97
+Europe,DEU,Germany,2012,42597.37
+Africa,DJI,Djibouti,2012,NULL
+North America,DMA,Dominica,2012,6691.71
+Europe,DNK,Denmark,2012,56363.95
+North America,DOM,Dominican Republic,2012,5745.78
+Africa,DZA,Algeria,2012,5347.7
+NULL,EAP,East Asia & Pacific (developing only),2012,5186.58
+NULL,EAS,East Asia & Pacific (all income levels),2012,9039.61
+NULL,ECA,Europe & Central Asia (developing only),2012,6888.57
+NULL,ECS,Europe & Central Asia (all income levels),2012,23847.71
+South America,ECU,Ecuador,2012,5424.63
+Africa,EGY,"Egypt, Arab Rep.",2012,3256.02
+NULL,EMU,Euro area,2012,36648.77
+Africa,ERI,Eritrea,2012,504.3
+Europe,ESP,Spain,2012,28273.72
+Europe,EST,Estonia,2012,16832.8
+Africa,ETH,Ethiopia,2012,454.8
+NULL,EUU,European Union,2012,32954.08
+Europe,FIN,Finland,2012,45694.11
+Oceania,FJI,Fiji,2012,4467.1
+Europe,FRA,France,2012,39746.29
+Europe,FRO,Faeroe Islands,2012,NULL
+Oceania,FSM,"Micronesia, Fed. Sts.",2012,3154.51
+Africa,GAB,Gabon,2012,11256.52
+Europe,GBR,United Kingdom,2012,38919.6
+Europe,GEO,Georgia,2012,3506.64
+Africa,GHA,Ghana,2012,1604.91
+Africa,GIN,Guinea,2012,491.79
+Africa,GMB,"Gambia, The",2012,506.6
+Africa,GNB,Guinea-Bissau,2012,494.31
+Africa,GNQ,Equatorial Guinea,2012,24035.71
+Europe,GRC,Greece,2012,22441.52
+North America,GRD,Grenada,2012,7266.68
+North America,GRL,Greenland,2012,NULL
+North America,GTM,Guatemala,2012,3330.53
+South America,GUY,Guyana,2012,3583.96
+NULL,HIC,High income,2012,38283.82
+Asia,HKG,"Hong Kong SAR, China",2012,36795.82
+North America,HND,Honduras,2012,2322.88
+NULL,HPC,Heavily indebted poor countries (HIPC),2012,777.94
+Europe,HRV,Croatia,2012,13878.58
+North America,HTI,Haiti,2012,770.95
+Europe,HUN,Hungary,2012,12560.07
+Asia,IDN,Indonesia,2012,3556.79
+Europe,IMN,Isle of Man,2012,NULL
+Asia,IND,India,2012,1503
+Europe,IRL,Ireland,2012,45921.32
+Asia,IRN,"Iran, Islamic Rep.",2012,7228.02
+Asia,IRQ,Iraq,2012,6625.22
+Europe,ISL,Iceland,2012,42339.46
+Asia,ISR,Israel,2012,32567.09
+Europe,ITA,Italy,2012,33815.67
+North America,JAM,Jamaica,2012,5449.08
+Asia,JOR,Jordan,2012,4909.03
+Asia,JPN,Japan,2012,46730.92
+Europe,KAZ,Kazakhstan,2012,12120.51
+Africa,KEN,Kenya,2012,942.54
+Asia,KGZ,Kyrgyz Republic,2012,1154.74
+Asia,KHM,Cambodia,2012,944.41
+Oceania,KIR,Kiribati,2012,1736.2
+North America,KNA,St. Kitts and Nevis,2012,14313.97
+Asia,KOR,"Korea, Rep.",2012,22589.96
+NULL,KSV,Kosovo,2012,3566.59
+Asia,KWT,Kuwait,2012,56373.73
+NULL,LAC,Latin America & Caribbean (developing only),2012,9191.98
+Asia,LAO,Lao PDR,2012,1417.08
+Asia,LBN,Lebanon,2012,9705.39
+Africa,LBR,Liberia,2012,413.76
+Africa,LBY,Libya,2012,NULL
+North America,LCA,St. Lucia,2012,6848.24
+NULL,LCN,Latin America & Caribbean (all income levels),2012,9575.22
+NULL,LDC,Least developed countries: UN classification,2012,802.88
+NULL,LIC,Low income,2012,597.53
+Europe,LIE,Liechtenstein,2012,NULL
+Asia,LKA,Sri Lanka,2012,2923.21
+NULL,LMC,Lower middle income,2012,2009.54
+NULL,LMY,Low & middle income,2012,4000.3
+Africa,LSO,Lesotho,2012,1193.04
+Europe,LTU,Lithuania,2012,14172.27
+Europe,LUX,Luxembourg,2012,103858.02
+Europe,LVA,Latvia,2012,13946.97
+Asia,MAC,"Macao SAR, China",2012,78275.15
+Africa,MAR,Morocco,2012,2902.33
+Europe,MCO,Monaco,2012,NULL
+Europe,MDA,Moldova,2012,2037.57
+Africa,MDG,Madagascar,2012,447.44
+Asia,MDV,Maldives,2012,6566.65
+NULL,MEA,Middle East & North Africa (all income levels),2012,8875.11
+North America,MEX,Mexico,2012,9748.87
+Oceania,MHL,Marshall Islands,2012,3470.65
+NULL,MIC,Middle income,2012,4585.37
+Europe,MKD,"Macedonia, FYR",2012,4565.27
+Africa,MLI,Mali,2012,699.34
+Europe,MLT,Malta,2012,20838.88
+NULL,MNA,Middle East & North Africa (developing only),2012,4896.59
+Europe,MNE,Montenegro,2012,7041.22
+Asia,MNG,Mongolia,2012,3672.97
+Africa,MOZ,Mozambique,2012,565.15
+Africa,MRT,Mauritania,2012,1106.14
+Africa,MUS,Mauritius,2012,8119.55
+Africa,MWI,Malawi,2012,268.05
+Asia,MYS,Malaysia,2012,10432.06
+NULL,NAC,North America,2012,51700.59
+Africa,NAM,Namibia,2012,5785.75
+Africa,NER,Niger,2012,394.78
+Africa,NGA,Nigeria,2012,2722.3
+North America,NIC,Nicaragua,2012,1753.64
+Europe,NLD,Netherlands,2012,45960.14
+NULL,NOC,High income: nonOECD,2012,20583.58
+Europe,NOR,Norway,2012,99635.88
+Asia,NPL,Nepal,2012,690.21
+Oceania,NZL,New Zealand,2012,38636.87
+NULL,OEC,High income: OECD,2012,42538.03
+NULL,OED,OECD members,2012,37261.55
+Asia,OMN,Oman,2012,23569.94
+NULL,OSS,Other small states,2012,4856.03
+Asia,PAK,Pakistan,2012,1256.66
+North America,PAN,Panama,2012,9534.41
+South America,PER,Peru,2012,6795.77
+Asia,PHL,Philippines,2012,2587.02
+Oceania,PLW,Palau,2012,11005.87
+Oceania,PNG,Papua New Guinea,2012,2184.16
+Europe,POL,Poland,2012,12710.12
+North America,PRI,Puerto Rico,2012,27677.53
+Europe,PRT,Portugal,2012,20175.06
+South America,PRY,Paraguay,2012,3813.47
+NULL,PSS,Pacific island small states,2012,3466.91
+Asia,QAT,Qatar,2012,93825.3
+Europe,ROU,Romania,2012,8437.43
+Europe,RUS,Russian Federation,2012,14037.02
+Africa,RWA,Rwanda,2012,619.93
+NULL,SAS,South Asia,2012,1396.47
+Asia,SAU,Saudi Arabia,2012,25136.21
+Africa,SDN,Sudan,2012,1580
+Africa,SEN,Senegal,2012,1023.29
+Asia,SGP,Singapore,2012,52051.81
+Oceania,SLB,Solomon Islands,2012,1834.84
+Africa,SLE,Sierra Leone,2012,634.92
+North America,SLV,El Salvador,2012,3789.57
+Europe,SMR,San Marino,2012,NULL
+Europe,SRB,Serbia,2012,5189.58
+NULL,SSA,Sub-Saharan Africa (developing only),2012,1629.25
+Africa,SSD,South Sudan,2012,943.04
+NULL,SSF,Sub-Saharan Africa (all income levels),2012,1647.46
+NULL,SST,Small states,2012,5811.71
+Africa,STP,Sao Tome and Principe,2012,1400.33
+South America,SUR,Suriname,2012,9376.5
+Europe,SVK,Slovak Republic,2012,16892.55
+Europe,SVN,Slovenia,2012,22058.77
+Europe,SWE,Sweden,2012,55039.57
+Africa,SWZ,Swaziland,2012,3041.85
+Africa,SYC,Seychelles,2012,12782.73
+Asia,SYR,Syrian Arab Republic,2012,NULL
+Africa,TCD,Chad,2012,1035.26
+Africa,TGO,Togo,2012,574.12
+Asia,THA,Thailand,2012,5479.76
+Asia,TJK,Tajikistan,2012,953.01
+Asia,TKM,Turkmenistan,2012,6797.73
+Asia,TLS,Timor-Leste,2012,1068.39
+Oceania,TON,Tonga,2012,4493.72
+North America,TTO,Trinidad and Tobago,2012,17436.5
+Africa,TUN,Tunisia,2012,4236.79
+Europe,TUR,Turkey,2012,10666.06
+Oceania,TUV,Tuvalu,2012,4044.19
+Africa,TZA,Tanzania,2012,608.72
+Africa,UGA,Uganda,2012,551.16
+Europe,UKR,Ukraine,2012,3866.99
+NULL,UMC,Upper middle income,2012,7285.22
+South America,URY,Uruguay,2012,14702.8
+North America,USA,United States,2012,51748.56
+Asia,UZB,Uzbekistan,2012,1716.66
+North America,VCT,St. Vincent and the Grenadines,2012,6515.22
+South America,VEN,"Venezuela, RB",2012,12728.73
+Asia,VNM,Vietnam,2012,1755.27
+Oceania,VUT,Vanuatu,2012,3183.16
+Asia,PSE,West Bank and Gaza,2012,NULL
+NULL,WLD,World,2012,10318.42
+Oceania,WSM,Samoa,2012,3619.69
+Asia,YEM,"Yemen, Rep.",2012,1498.26
+Africa,ZAF,South Africa,2012,7351.76
+Africa,COD,"Congo, Dem. Rep.",2012,261.84
+Africa,ZMB,Zambia,2012,1462.89
+Africa,ZWE,Zimbabwe,2012,714.23
