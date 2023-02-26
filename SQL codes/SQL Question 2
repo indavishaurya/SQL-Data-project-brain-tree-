@@ -1,0 +1,41 @@
+Select c.ClaimantID,c.ReopenedDate,cl.ClaimNumber,cs.ClaimStatusDesc,us.UserName,us.examinername,us.supervisorname,us.Title,us.ReserveLimit,o.OfficeDesc,o.State,ct.ClaimantTypeDesc,
+concat(p.FirstName,' ',p.MiddleName,' ',p.LastName) as claimantname,rst.ReserveAmount,rst.reserve_bucket
+from Claimant as c
+inner join 
+Claim as cl
+on c.ClaimID=cl.ClaimID
+inner join 
+ClaimStatus as cs
+on c.claimStatusID=cs.ClaimStatusID
+inner join
+(Select u.UserName,concat(u.FirstName,u.MiddleName,u.LastName) as examinername,concat(u1.FirstName,u1.MiddleName,u1.LastName) as supervisorname,concat(u2.FirstName,u2.MiddleName,u2.LastName) as managername,u.Title,u.OfficeID,u.ReserveLimit
+from Users as u
+left join
+Users as u1
+on u.Supervisor=u1.UserName
+left join
+Users as u2
+on u1.Supervisor=u2.UserName) as us
+on c.EnteredBy=us.UserName
+inner join Office as o
+on us.OfficeID=o.OfficeID
+inner join ClaimantType as ct
+on c.ClaimantTypeID=ct.ClaimantTypeID
+inner join Patient as p
+on c.PatientID=p.PatientID
+inner join
+(Select rs.ClaimantID,rs.reserve_bucket,rs.EntryDate,rs.ReserveAmount
+from
+(Select isnull(rt2.ReserveTypeDesc,rt1.ReserveTypeDesc) as reserve_bucket,R.*
+from Reserve as R
+inner join ReserveType AS rt1
+on R.ReserveTypeID=rt1.reserveTypeID
+left join ReserveType as rt2
+on rt1.ParentID=rt2.reserveTypeID) as rs
+inner join
+(Select max(EntryDate) as max1,ClaimantID
+from Reserve
+group by ClaimantID) as rs1
+on rs.ClaimantID=rs1.ClaimantID
+where rs.EntryDate=rs1.max1) as rst
+on c.ClaimantID=rst.ClaimantID
